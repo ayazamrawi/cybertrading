@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0aa70d6.css",
+    "main.js": "/static/js/main.0ddbc230.js",
+    "static/js/453.6030f26f.chunk.js": "/static/js/453.6030f26f.chunk.js",
+    "static/media/new.png": "/static/media/new.e22492f852f1f24213f1.png",
+    "static/media/new-bg-world.png": "/static/media/new-bg-world.72b5dcc001662805dea8.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/trophy.png": "/static/media/trophy.b10e675c96c2a6d0368b.png",
+    "static/media/left_cyan_cobalt_glow.svg": "/static/media/left_cyan_cobalt_glow.c9e54fada10be7230749.svg",
+    "static/media/right_cobalt_cyan_glow_2.svg": "/static/media/right_cobalt_cyan_glow_2.e8ac34e00ccf4d68702d.svg",
+    "static/media/white-short-logo.png": "/static/media/white-short-logo.4423a458b87cd7d47dab.png",
+    "static/media/new-design.svg": "/static/media/new-design.5804488a4b98e09bb5a1.svg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/cyber2.png": "/static/media/cyber2.f786125c3175b54e0a5b.png",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "index.html": "/index.html",
+    "static/media/google.svg": "/static/media/google.b22866ad165f86a2626aa650f2608e8c.svg",
+    "main.c0aa70d6.css.map": "/static/css/main.c0aa70d6.css.map",
+    "main.0ddbc230.js.map": "/static/js/main.0ddbc230.js.map",
+    "453.6030f26f.chunk.js.map": "/static/js/453.6030f26f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0aa70d6.css",
+    "static/js/main.0ddbc230.js"
+  ]
+}
