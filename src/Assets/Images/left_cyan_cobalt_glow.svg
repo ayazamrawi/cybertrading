@@ -1,0 +1,432 @@
+<svg width="1500" height="990" viewBox="0 0 1500 990" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2618_866)">
+<g style="mix-blend-mode:difference" filter="url(#filter0_f_2618_866)">
+<path d="M578.074 305.737C640.073 318.491 660.087 366.977 719.325 374.012C809.849 400.423 786.995 521.47 798.922 644L349.642 549.768L-86.0782 644C-42.9224 497.923 -18.3235 416.196 148.802 323.498C293.388 272.637 407.986 270.748 578.074 305.737Z" fill="url(#paint0_linear_2618_866)"/>
+</g>
+<g style="mix-blend-mode:plus-lighter" filter="url(#filter1_f_2618_866)">
+<path d="M31.6909 500.905C-71.9551 494.585 -137.874 555.073 -197.386 617.309C-208.129 628.543 -208.172 646.222 -197.596 657.614L-126.772 733.901C-117.144 744.272 -101.506 746.342 -89.5103 738.834L185.886 566.458C215.26 548.073 192.214 495.542 157.789 499.514C118.389 504.061 78.1872 504.673 31.6909 500.905Z" fill="#00F0FF" fill-opacity="0.4"/>
+</g>
+<mask id="mask0_2618_866" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-313" y="226" width="1305" height="551">
+<path d="M-301.995 721.421C-358.884 601.7 -184.447 399.845 87.6211 270.565C359.689 141.284 1012.01 313.691 991.086 541.545C953.382 717.751 657.045 648.224 346.158 616.847C340.733 616.3 335.268 617.255 330.336 619.581C60.0891 747.046 -245.63 840.04 -301.995 721.421Z" fill="url(#paint1_radial_2618_866)"/>
+</mask>
+<g mask="url(#mask0_2618_866)">
+<g opacity="0.5" filter="url(#filter2_f_2618_866)">
+<circle cx="616.282" cy="450.015" r="1.49939" transform="rotate(-180 616.282 450.015)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 373.93 464.927)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 576.461 610.163)" fill="white"/>
+<circle cx="433.249" cy="619.542" r="1.49939" transform="rotate(-14.1092 433.249 619.542)" fill="white"/>
+<circle cx="760.219" cy="546.758" r="1.49939" transform="rotate(-180 760.219 546.758)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 240.766 576.03)" fill="white"/>
+<circle cx="270.077" cy="560.841" r="1.49939" transform="rotate(-14.1092 270.077 560.841)" fill="white"/>
+<circle cx="245.843" cy="511.674" r="1.49939" transform="rotate(-14.1092 245.843 511.674)" fill="white"/>
+<circle cx="242.038" cy="534.487" r="1.49939" transform="rotate(-14.1092 242.038 534.487)" fill="white"/>
+<circle cx="314.171" cy="540.007" r="1.49939" transform="rotate(-14.1092 314.171 540.007)" fill="white"/>
+<circle cx="224.327" cy="586.936" r="1.49939" transform="rotate(-14.1092 224.327 586.936)" fill="white"/>
+<circle cx="430.368" cy="460.51" r="1.49939" transform="rotate(-180 430.368 460.51)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 559.938 456.149)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 393.922 573.331)" fill="white"/>
+<circle cx="610.999" cy="564.042" r="1.49939" transform="rotate(-14.1092 610.999 564.042)" fill="white"/>
+<circle cx="275.938" cy="585.741" r="1.49939" transform="rotate(-180 275.938 585.741)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 726.484 564.748)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 258.867 427.409)" fill="white"/>
+<circle cx="730.249" cy="404.943" r="1.49939" transform="rotate(-14.1092 730.249 404.943)" fill="white"/>
+<circle cx="449.11" cy="644.965" r="1.49939" transform="rotate(-180 449.11 644.965)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 560.359 641.553)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 438.703 393.417)" fill="white"/>
+<circle cx="547.867" cy="389.721" r="1.49939" transform="rotate(-14.1092 547.867 389.721)" fill="white"/>
+<circle cx="595.297" cy="715.433" r="1.49939" transform="rotate(-180 595.297 715.433)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 422.242 726.754)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 593.43 344.456)" fill="white"/>
+<circle cx="388.913" cy="357.014" r="1.49939" transform="rotate(-14.1092 388.913 357.014)" fill="white"/>
+<circle cx="571.305" cy="675.701" r="1.49939" transform="rotate(-180 571.305 675.701)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 441.992 684.756)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 564.031 380.373)" fill="white"/>
+<circle cx="421.867" cy="389.7" r="1.49939" transform="rotate(-14.1092 421.867 389.7)" fill="white"/>
+<circle cx="249.696" cy="707.936" r="1.49939" transform="rotate(-180 249.696 707.936)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 765.211 683.578)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 250.273 302.724)" fill="white"/>
+<circle cx="725.913" cy="280.038" r="1.49939" transform="rotate(-14.1092 725.913 280.038)" fill="white"/>
+<circle cx="114.008" cy="518.234" r="1.49939" transform="rotate(-180 114.008 518.234)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 88.9922 471.163)" fill="white"/>
+<circle cx="903.742" cy="430.905" r="1.49939" transform="rotate(-14.1092 903.742 430.905)" fill="white"/>
+<circle cx="168.735" cy="372.799" r="1.49939" transform="rotate(-180 168.735 372.799)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 811.102 341.867)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 122.477 622.939)" fill="white"/>
+<circle cx="886.117" cy="585.329" r="1.49939" transform="rotate(-14.1092 886.117 585.329)" fill="white"/>
+<circle cx="921.399" cy="397.538" r="1.49939" transform="rotate(-180 921.399 397.538)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 65.0312 444.268)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 871.008 705.5)" fill="white"/>
+<circle cx="150.132" cy="744.815" r="1.49939" transform="rotate(-14.1092 150.132 744.815)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 992.555 513.138)" fill="white"/>
+<circle cx="9.35872" cy="566.082" r="1.49939" transform="rotate(-14.1092 9.35872 566.082)" fill="white"/>
+<circle cx="971.626" cy="534.727" r="1.49939" transform="rotate(-180 971.626 534.727)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 29.25 585.949)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 940.234 576.849)" fill="white"/>
+<circle cx="67.9759" cy="624.008" r="1.49939" transform="rotate(-14.1092 67.9759 624.008)" fill="white"/>
+<circle cx="-0.694699" cy="489.747" r="1.49939" transform="rotate(-180 -0.694699 489.747)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 991.711 440.677)" fill="white"/>
+<circle cx="42.0397" cy="339.064" r="1.49939" transform="rotate(-180 42.0397 339.064)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 933.633 295.217)" fill="white"/>
+<circle cx="399.633" cy="695.941" r="1.49939" transform="rotate(-180 399.633 695.941)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 614.844 687.144)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 396.977 335.921)" fill="white"/>
+<circle cx="583.421" cy="328.22" r="1.49939" transform="rotate(-14.1092 583.421 328.22)" fill="white"/>
+<circle cx="733.235" cy="703.438" r="1.49939" transform="rotate(-180 733.235 703.438)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 283.797 729.081)" fill="white"/>
+<circle cx="1.49939" cy="1.49939" r="1.49939" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 728.258 375.948)" fill="white"/>
+<circle cx="258.062" cy="402.272" r="1.49939" transform="rotate(-14.1092 258.062 402.272)" fill="white"/>
+<circle cx="554.063" cy="506.99" r="0.749693" transform="rotate(-180 554.063 506.99)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 442.375 514.342)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 522.125 545.553)" fill="white"/>
+<circle cx="479.707" cy="549.119" r="0.749693" transform="rotate(-14.1092 479.707 549.119)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 375.867 541.639)" fill="white"/>
+<circle cx="407.879" cy="546.301" r="0.749693" transform="rotate(-14.1092 407.879 546.301)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 410.477 541.058)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 559.562 527.417)" fill="white"/>
+<circle cx="440.597" cy="534.951" r="0.749693" transform="rotate(-14.1092 440.597 534.951)" fill="white"/>
+<circle cx="724.235" cy="553.505" r="0.749693" transform="rotate(-180 724.235 553.505)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 277.922 578.198)" fill="white"/>
+<circle cx="303.332" cy="545.525" r="0.749693" transform="rotate(-14.1092 303.332 545.525)" fill="white"/>
+<circle cx="820.196" cy="583.492" r="0.749693" transform="rotate(-180 820.196 583.492)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 185.578 617.942)" fill="white"/>
+<circle cx="202.965" cy="539.834" r="0.749693" transform="rotate(-14.1092 202.965 539.834)" fill="white"/>
+<circle cx="811.196" cy="569.997" r="0.749693" transform="rotate(-180 811.196 569.997)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 193.125 603.59)" fill="white"/>
+<circle cx="214.972" cy="550.729" r="0.749693" transform="rotate(-14.1092 214.972 550.729)" fill="white"/>
+<circle cx="730.985" cy="680.949" r="0.749693" transform="rotate(-180 730.985 680.949)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 284.383 705.656)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 721.984 398.525)" fill="white"/>
+<circle cx="265.722" cy="423.535" r="0.749693" transform="rotate(-14.1092 265.722 423.535)" fill="white"/>
+<circle cx="679.258" cy="673.451" r="0.749693" transform="rotate(-180 679.258 673.451)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 335.055 692.853)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 669.719 398.588)" fill="white"/>
+<circle cx="317.715" cy="418.196" r="0.749693" transform="rotate(-14.1092 317.715 418.196)" fill="white"/>
+<circle cx="715.242" cy="642.715" r="0.749693" transform="rotate(-180 715.242 642.715)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 296.086 666.001)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 700.961 434.129)" fill="white"/>
+<circle cx="290.308" cy="456.776" r="0.749693" transform="rotate(-14.1092 290.308 456.776)" fill="white"/>
+<circle cx="710.742" cy="661.457" r="0.749693" transform="rotate(-180 710.742 661.457)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 302.5 684.177)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 699.18 414.939)" fill="white"/>
+<circle cx="290.105" cy="437.504" r="0.749693" transform="rotate(-14.1092 290.105 437.504)" fill="white"/>
+<circle cx="563.055" cy="647.213" r="0.749693" transform="rotate(-180 563.055 647.213)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 447.922 654.745)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 550.969 408.034)" fill="white"/>
+<circle cx="436.808" cy="415.316" r="0.749693" transform="rotate(-14.1092 436.808 415.316)" fill="white"/>
+<circle cx="624.532" cy="692.193" r="0.749693" transform="rotate(-180 624.532 692.193)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 391.422 705.838)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 618.211 372.253)" fill="white"/>
+<circle cx="366.222" cy="386.679" r="0.749693" transform="rotate(-14.1092 366.222 386.679)" fill="white"/>
+<circle cx="519.578" cy="704.937" r="0.749693" transform="rotate(-180 519.578 704.937)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 497.133 707.666)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 516.141 344.712)" fill="white"/>
+<circle cx="464.902" cy="348.735" r="0.749693" transform="rotate(-14.1092 464.902 348.735)" fill="white"/>
+<circle cx="493.336" cy="677.199" r="0.749693" transform="rotate(-180 493.336 677.199)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 520.367 677.365)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 486.219 368.436)" fill="white"/>
+<circle cx="497.113" cy="369.24" r="0.749693" transform="rotate(-14.1092 497.113 369.24)" fill="white"/>
+<circle cx="444.61" cy="716.183" r="0.749693" transform="rotate(-180 444.61 716.183)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 572.859 711.103)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 443.531 322.918)" fill="white"/>
+<circle cx="534.871" cy="319.555" r="0.749693" transform="rotate(-14.1092 534.871 319.555)" fill="white"/>
+<circle cx="375.641" cy="667.454" r="0.749693" transform="rotate(-180 375.641 667.454)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 636.422 655.507)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 368.336 361.343)" fill="white"/>
+<circle cx="613.636" cy="350" r="0.749693" transform="rotate(-14.1092 613.636 350)" fill="white"/>
+<circle cx="277.438" cy="695.942" r="0.749693" transform="rotate(-180 277.438 695.942)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 737.047 673.69)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 275.18 319.178)" fill="white"/>
+<circle cx="701.933" cy="298.431" r="0.749693" transform="rotate(-14.1092 701.933 298.431)" fill="white"/>
+<circle cx="238.453" cy="676.45" r="0.749693" transform="rotate(-180 238.453 676.45)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 773.812 650.274)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 233.82 332.927)" fill="white"/>
+<circle cx="744.488" cy="307.832" r="0.749693" transform="rotate(-14.1092 744.488 307.832)" fill="white"/>
+<circle cx="262.446" cy="619.476" r="0.749693" transform="rotate(-180 262.446 619.476)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 744.062 596.085)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 249.461 392.734)" fill="white"/>
+<circle cx="735.113" cy="368.936" r="0.749693" transform="rotate(-14.1092 735.113 368.936)" fill="white"/>
+<circle cx="212.211" cy="597.735" r="0.749693" transform="rotate(-180 212.211 597.735)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 791.773 569.269)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 196.656 407.109)" fill="white"/>
+<circle cx="789.129" cy="377.778" r="0.749693" transform="rotate(-14.1092 789.129 377.778)" fill="white"/>
+<circle cx="227.953" cy="569.248" r="0.749693" transform="rotate(-180 227.953 569.248)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 773.164 542.561)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 208.188 437.546)" fill="white"/>
+<circle cx="780.8" cy="409.243" r="0.749693" transform="rotate(-14.1092 780.8 409.243)" fill="white"/>
+<circle cx="261.696" cy="555.004" r="0.749693" transform="rotate(-180 261.696 555.004)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 239.547 456.443)" fill="white"/>
+<circle cx="751.558" cy="431.28" r="0.749693" transform="rotate(-14.1092 751.558 431.28)" fill="white"/>
+<circle cx="242.203" cy="503.991" r="0.749693" transform="rotate(-180 242.203 503.991)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 213.008 504.13)" fill="white"/>
+<circle cx="318.664" cy="509.239" r="0.749693" transform="rotate(-180 318.664 509.239)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 676.742 492.248)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 289.445 509.811)" fill="white"/>
+<circle cx="401.875" cy="534.727" r="0.749693" transform="rotate(-180 401.875 534.727)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 375.438 496.416)" fill="white"/>
+<circle cx="349.399" cy="471.755" r="0.749693" transform="rotate(-180 349.399 471.755)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 642.297 458.144)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 314.539 551.32)" fill="white"/>
+<circle cx="686.777" cy="533.364" r="0.749693" transform="rotate(-14.1092 686.777 533.364)" fill="white"/>
+<circle cx="403.375" cy="502.492" r="0.749693" transform="rotate(-180 403.375 502.492)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 591.789 494.294)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 372.336 528.538)" fill="white"/>
+<circle cx="384.641" cy="382.545" r="0.749693" transform="rotate(-180 384.641 382.545)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 598.031 373.052)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 336.727 644.635)" fill="white"/>
+<circle cx="674.355" cy="628.508" r="0.749693" transform="rotate(-14.1092 674.355 628.508)" fill="white"/>
+<circle cx="183.727" cy="405.035" r="0.749693" transform="rotate(-180 183.727 405.035)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 800.188 374.655)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 141.055 593.8)" fill="white"/>
+<circle cx="863.722" cy="557.721" r="0.749693" transform="rotate(-14.1092 863.722 557.721)" fill="white"/>
+<circle cx="217.461" cy="434.271" r="0.749693" transform="rotate(-180 217.461 434.271)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 769.656 407.223)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 178.602 569.657)" fill="white"/>
+<circle cx="180.727" cy="324.82" r="0.749693" transform="rotate(-180 180.727 324.82)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 794.883 294.562)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 126.68 672.773)" fill="white"/>
+<circle cx="886.183" cy="634.785" r="0.749693" transform="rotate(-14.1092 886.183 634.785)" fill="white"/>
+<circle cx="111.758" cy="354.807" r="0.749693" transform="rotate(-180 111.758 354.807)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 866.586 317.259)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 62.6719 633.281)" fill="white"/>
+<circle cx="945.761" cy="588.889" r="0.749693" transform="rotate(-14.1092 945.761 588.889)" fill="white"/>
+<circle cx="54.0316" cy="379.546" r="0.749693" transform="rotate(-180 54.0316 379.546)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 926.555 335.899)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 9.05469 600.584)" fill="white"/>
+<circle cx="34.5394" cy="460.51" r="0.749693" transform="rotate(-180 34.5394 460.51)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 954.312 414.414)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 1.27344 517.634)" fill="white"/>
+<circle cx="99.0159" cy="473.254" r="0.749693" transform="rotate(-180 99.0159 473.254)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 891.5 433.755)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 66.9062 514.189)" fill="white"/>
+<circle cx="929.246" cy="470.872" r="0.749693" transform="rotate(-14.1092 929.246 470.872)" fill="white"/>
+<circle cx="136.5" cy="570.747" r="0.749693" transform="rotate(-180 136.5 570.747)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 117.867 423.054)" fill="white"/>
+<circle cx="869.136" cy="385.492" r="0.749693" transform="rotate(-14.1092 869.136 385.492)" fill="white"/>
+<circle cx="135.75" cy="705.688" r="0.749693" transform="rotate(-180 135.75 705.688)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 878.984 668.739)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 136.32 289.38)" fill="white"/>
+<circle cx="836.972" cy="254.442" r="0.749693" transform="rotate(-14.1092 836.972 254.442)" fill="white"/>
+<circle cx="44.2894" cy="597.735" r="0.749693" transform="rotate(-180 44.2894 597.735)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 958.797 551.912)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 30.4375 383.226)" fill="white"/>
+<circle cx="951.988" cy="336.841" r="0.749693" transform="rotate(-14.1092 951.988 336.841)" fill="white"/>
+<circle cx="17.2972" cy="605.981" r="0.749693" transform="rotate(-180 17.2972 605.981)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 986.492 557.325)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 4.89062 371.226)" fill="white"/>
+<circle cx="976.152" cy="322.265" r="0.749693" transform="rotate(-14.1092 976.152 322.265)" fill="white"/>
+<circle cx="18.0472" cy="633.719" r="0.749693" transform="rotate(-180 18.0472 633.719)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 988.617 584.991)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 9.57812 343.877)" fill="white"/>
+<circle cx="968.66" cy="295.546" r="0.749693" transform="rotate(-14.1092 968.66 295.546)" fill="white"/>
+<circle cx="60.0316" cy="641.216" r="0.749693" transform="rotate(-180 60.0316 641.216)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 947.633 596.787)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 52.2031 342.427)" fill="white"/>
+<circle cx="926.121" cy="298.51" r="0.749693" transform="rotate(-14.1092 926.121 298.51)" fill="white"/>
+<circle cx="144.742" cy="552.004" r="0.749693" transform="rotate(-180 144.742 552.004)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 123.367 442.779)" fill="white"/>
+<circle cx="865.707" cy="405.68" r="0.749693" transform="rotate(-14.1092 865.707 405.68)" fill="white"/>
+<circle cx="54.0316" cy="541.51" r="0.749693" transform="rotate(-180 54.0316 541.51)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 943.289 496.96)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 32.0859 440.266)" fill="white"/>
+<circle cx="956.238" cy="393.746" r="0.749693" transform="rotate(-14.1092 956.238 393.746)" fill="white"/>
+<circle cx="131.25" cy="608.98" r="0.749693" transform="rotate(-180 131.25 608.98)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 873.461 572.085)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 118.109 384.464)" fill="white"/>
+<circle cx="864.91" cy="347.134" r="0.749693" transform="rotate(-14.1092 864.91 347.134)" fill="white"/>
+<circle cx="147.742" cy="668.204" r="0.749693" transform="rotate(-180 147.742 668.204)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 863.18 632.696)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 142.859 328.189)" fill="white"/>
+<circle cx="834.472" cy="293.718" r="0.749693" transform="rotate(-14.1092 834.472 293.718)" fill="white"/>
+<circle cx="167.235" cy="689.195" r="0.749693" transform="rotate(-180 167.235 689.195)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 845.961 655.589)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 165.141 310.183)" fill="white"/>
+<circle cx="810.457" cy="278.111" r="0.749693" transform="rotate(-14.1092 810.457 278.111)" fill="white"/>
+<circle cx="120.008" cy="441.019" r="0.749693" transform="rotate(-180 120.008 441.019)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 867.289 403.861)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 83.0938 549.119)" fill="white"/>
+<circle cx="135.75" cy="428.274" r="0.749693" transform="rotate(-180 135.75 428.274)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 850.312 392.811)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 96.8672 563.972)" fill="white"/>
+<circle cx="293.18" cy="412.531" r="0.749693" transform="rotate(-180 293.18 412.531)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 692.102 393.426)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 250.461 601.946)" fill="white"/>
+<circle cx="755.746" cy="577.132" r="0.749693" transform="rotate(-14.1092 755.746 577.132)" fill="white"/>
+<circle cx="301.422" cy="381.795" r="0.749693" transform="rotate(-180 301.422 381.795)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 680.719 363.706)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 254.25 633.543)" fill="white"/>
+<circle cx="755.238" cy="608.951" r="0.749693" transform="rotate(-14.1092 755.238 608.951)" fill="white"/>
+<circle cx="357.649" cy="371.301" r="0.749693" transform="rotate(-180 357.649 371.301)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 623.711 359.078)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 308.414 651.928)" fill="white"/>
+<circle cx="703.269" cy="632.836" r="0.749693" transform="rotate(-14.1092 703.269 632.836)" fill="white"/>
+<circle cx="381.641" cy="330.069" r="0.749693" transform="rotate(-180 381.641 330.069)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 595.594 320.547)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 326.289 696.152)" fill="white"/>
+<circle cx="690.05" cy="678.671" r="0.749693" transform="rotate(-14.1092 690.05 678.671)" fill="white"/>
+<circle cx="420.617" cy="388.542" r="0.749693" transform="rotate(-180 420.617 388.542)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 562.859 382.738)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 373.195 643.816)" fill="white"/>
+<circle cx="637.996" cy="631.464" r="0.749693" transform="rotate(-14.1092 637.996 631.464)" fill="white"/>
+<circle cx="415.375" cy="413.281" r="0.749693" transform="rotate(-180 415.375 413.281)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 570.641 406.802)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 371.516 618.583)" fill="white"/>
+<circle cx="637.05" cy="606.192" r="0.749693" transform="rotate(-14.1092 637.05 606.192)" fill="white"/>
+<circle cx="288.68" cy="561.001" r="0.749693" transform="rotate(-180 288.68 561.001)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 267.117 454.344)" fill="white"/>
+<circle cx="723.925" cy="432.042" r="0.749693" transform="rotate(-14.1092 723.925 432.042)" fill="white"/>
+<circle cx="276.688" cy="567.749" r="0.749693" transform="rotate(-180 276.688 567.749)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 724.547 546.107)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 256.203 445.961)" fill="white"/>
+<circle cx="733.91" cy="422.575" r="0.749693" transform="rotate(-14.1092 733.91 422.575)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 234.477 493.74)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 718.734 616.214)" fill="white"/>
+<circle cx="291.457" cy="639.724" r="0.749693" transform="rotate(-14.1092 291.457 639.724)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 241.711 512.583)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 716.312 596.175)" fill="white"/>
+<circle cx="291.793" cy="619.541" r="0.749693" transform="rotate(-14.1092 291.793 619.541)" fill="white"/>
+<circle cx="841.188" cy="460.51" r="0.749693" transform="rotate(-180 841.188 460.51)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 151.992 497.789)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 799.719 632.395)" fill="white"/>
+<circle cx="212.574" cy="664.188" r="0.749693" transform="rotate(-14.1092 212.574 664.188)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 140.633 511.782)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 814.148 621.593)" fill="white"/>
+<circle cx="197.105" cy="654.936" r="0.749693" transform="rotate(-14.1092 197.105 654.936)" fill="white"/>
+<circle cx="938.641" cy="448.516" r="0.749693" transform="rotate(-180 938.641 448.516)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 53.8125 495.931)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 894.477 658.128)" fill="white"/>
+<circle cx="120.98" cy="699.578" r="0.749693" transform="rotate(-14.1092 120.98 699.578)" fill="white"/>
+<circle cx="988.867" cy="387.793" r="0.749693" transform="rotate(-180 988.867 387.793)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 935.555 725.378)" fill="white"/>
+<circle cx="87.0739" cy="770.714" r="0.749693" transform="rotate(-14.1092 87.0739 770.714)" fill="white"/>
+<circle cx="958.883" cy="546.757" r="0.749693" transform="rotate(-180 958.883 546.757)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 43.8359 595.74)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 928.477 563.8)" fill="white"/>
+<circle cx="77.4098" cy="609.269" r="0.749693" transform="rotate(-14.1092 77.4098 609.269)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 2.85938 629.392)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 976.422 541.15)" fill="white"/>
+<circle cx="27.3864" cy="591.696" r="0.749693" transform="rotate(-14.1092 27.3864 591.696)" fill="white"/>
+<circle cx="987.367" cy="608.98" r="0.749693" transform="rotate(-180 987.367 608.98)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 21.9297 660.573)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 965.531 506.225)" fill="white"/>
+<circle cx="34.613" cy="555.867" r="0.749693" transform="rotate(-14.1092 34.613 555.867)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 2.60938 699.513)" fill="white"/>
+<circle cx="3.12077" cy="525.871" r="0.749693" transform="rotate(-14.1092 3.12077 525.871)" fill="white"/>
+<circle cx="900.407" cy="713.184" r="0.749693" transform="rotate(-180 900.407 713.184)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 119.195 755.23)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 894.273 390.713)" fill="white"/>
+<circle cx="93.5505" cy="433.574" r="0.749693" transform="rotate(-14.1092 93.5505 433.574)" fill="white"/>
+<circle cx="887.664" cy="681.697" r="0.749693" transform="rotate(-180 887.664 681.697)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 128.617 722.596)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 877.18 420.065)" fill="white"/>
+<circle cx="113.59" cy="461.002" r="0.749693" transform="rotate(-14.1092 113.59 461.002)" fill="white"/>
+<circle cx="844.18" cy="692.943" r="0.749693" transform="rotate(-180 844.18 692.943)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 173.031 729.286)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 835.734 402.751)" fill="white"/>
+<circle cx="153.011" cy="439.497" r="0.749693" transform="rotate(-14.1092 153.011 439.497)" fill="white"/>
+<circle cx="767.719" cy="638.218" r="0.749693" transform="rotate(-180 767.719 638.218)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 243.43 666.951)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 752.266 446.045)" fill="white"/>
+<circle cx="240.511" cy="473.931" r="0.749693" transform="rotate(-14.1092 240.511 473.931)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 399.555 551.991)" fill="white"/>
+<circle cx="426.59" cy="528.423" r="0.749693" transform="rotate(-14.1092 426.59 528.423)" fill="white"/>
+<circle cx="111.758" cy="667.454" r="0.749693" transform="rotate(-180 111.758 667.454)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 898.898 628.232)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 107.133 323.811)" fill="white"/>
+<circle cx="869.558" cy="285.673" r="0.749693" transform="rotate(-14.1092 869.558 285.673)" fill="white"/>
+<circle cx="614.032" cy="390.792" r="0.749693" transform="rotate(-180 614.032 390.792)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 370.719 404.966)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 564.961 669.099)" fill="white"/>
+<circle cx="449.863" cy="676.432" r="0.749693" transform="rotate(-14.1092 449.863 676.432)" fill="white"/>
+<circle cx="665.008" cy="411.782" r="0.749693" transform="rotate(-180 665.008 411.782)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 322.18 431.112)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 618.406 655.571)" fill="white"/>
+<circle cx="395.308" cy="668.501" r="0.749693" transform="rotate(-14.1092 395.308 668.501)" fill="white"/>
+<circle cx="623.032" cy="420.028" r="0.749693" transform="rotate(-180 623.032 420.028)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 364.789 434.975)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 578.023 641.439)" fill="white"/>
+<circle cx="434.011" cy="650.27" r="0.749693" transform="rotate(-14.1092 434.011 650.27)" fill="white"/>
+<circle cx="666.508" cy="441.768" r="0.749693" transform="rotate(-180 666.508 441.768)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 323.789 461.093)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 624.156 626.103)" fill="white"/>
+<circle cx="386.543" cy="639.785" r="0.749693" transform="rotate(-14.1092 386.543 639.785)" fill="white"/>
+<circle cx="689.75" cy="431.273" r="0.749693" transform="rotate(-180 689.75 431.273)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 299.586 453.057)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 645.664 639.797)" fill="white"/>
+<circle cx="366.566" cy="655.628" r="0.749693" transform="rotate(-14.1092 366.566 655.628)" fill="white"/>
+<circle cx="852.43" cy="342.063" r="0.749693" transform="rotate(-180 852.43 342.063)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 128.562 381.138)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 794 751.238)" fill="white"/>
+<circle cx="972.375" cy="376.547" r="0.749693" transform="rotate(-180 972.375 376.547)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 12.8203 427.836)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 917.633 734.163)" fill="white"/>
+<circle cx="937.141" cy="436.521" r="0.749693" transform="rotate(-180 937.141 436.521)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 54.0625 483.847)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 891.289 669.788)" fill="white"/>
+<circle cx="125.363" cy="710.845" r="0.749693" transform="rotate(-14.1092 125.363 710.845)" fill="white"/>
+<circle cx="875.672" cy="457.511" r="0.749693" transform="rotate(-180 875.672 457.511)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 117.383 498.37)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 833.422 640.268)" fill="white"/>
+<circle cx="179.863" cy="675.503" r="0.749693" transform="rotate(-14.1092 179.863 675.503)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 149.656 569.668)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 819.492 563.286)" fill="white"/>
+<circle cx="185.761" cy="597.495" r="0.749693" transform="rotate(-14.1092 185.761 597.495)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 159 536.252)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 802.297 593.382)" fill="white"/>
+<circle cx="205.98" cy="625.65" r="0.749693" transform="rotate(-14.1092 205.98 625.65)" fill="white"/>
+<circle cx="913.899" cy="564.75" r="0.749693" transform="rotate(-180 913.899 564.75)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 90.4297 608.987)" fill="white"/>
+<circle cx="116.652" cy="580.855" r="0.749693" transform="rotate(-14.1092 116.652 580.855)" fill="white"/>
+<circle cx="880.914" cy="608.231" r="0.749693" transform="rotate(-180 880.914 608.231)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 127.734 648.825)" fill="white"/>
+<circle cx="138.035" cy="530.608" r="0.749693" transform="rotate(-14.1092 138.035 530.608)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 14.7578 714.832)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 985.711 455.352)" fill="white"/>
+<circle cx="9.27702" cy="507.318" r="0.749693" transform="rotate(-14.1092 9.27702 507.318)" fill="white"/>
+<circle cx="971.625" cy="581.992" r="0.749693" transform="rotate(-180 971.625 581.992)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 34.7969 632.103)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 946.109 530.7)" fill="white"/>
+<circle cx="56.4645" cy="578.204" r="0.749693" transform="rotate(-14.1092 56.4645 578.204)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 975.945 607.73)" fill="white"/>
+<circle cx="34.7458" cy="657.87" r="0.749693" transform="rotate(-14.1092 34.7458 657.87)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 956.055 682.881)" fill="white"/>
+<circle cx="62.2926" cy="730.562" r="0.749693" transform="rotate(-14.1092 62.2926 730.562)" fill="white"/>
+<circle cx="877.922" cy="703.439" r="0.749693" transform="rotate(-180 877.922 703.439)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 140.555 743.213)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 870.625 397.16)" fill="white"/>
+<circle cx="117.738" cy="437.543" r="0.749693" transform="rotate(-14.1092 117.738 437.543)" fill="white"/>
+<circle cx="912.407" cy="723.679" r="0.749693" transform="rotate(-180 912.407 723.679)" fill="white"/>
+<circle cx="0.749694" cy="0.749694" r="0.749694" transform="matrix(0.994644 -0.103359 -0.103359 -0.994644 108.352 766.909)" fill="white"/>
+<circle cx="0.749693" cy="0.749693" r="0.749693" transform="matrix(-0.989834 -0.142225 -0.142225 0.989834 907.633 382.03)" fill="white"/>
+<circle cx="79.363" cy="426.318" r="0.749693" transform="rotate(-14.1092 79.363 426.318)" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2618_866" x="-1286.078" y="-918" width="3285" height="2762" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_2618_866"/>
+</filter>
+<filter id="filter1_f_2618_866" x="-1384.23" y="-679.445" width="2762.303" height="2601.518" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="89.3726" result="effect1_foregroundBlur_2618_866"/>
+</filter>
+<filter id="filter2_f_2618_866" x="-33.4857" y="209.8" width="1058.61" height="629.926" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.848307" result="effect1_foregroundBlur_2618_866"/>
+</filter>
+<linearGradient id="paint0_linear_2618_866" x1="798.922" y1="463" x2="-86.0782" y2="463" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0012B8"/>
+<stop offset="1" stop-color="#00F0FF"/>
+</linearGradient>
+<radialGradient id="paint1_radial_2618_866" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190.62 487.335) rotate(-115.416) scale(240.003 545.409)">
+<stop offset="0.456202" stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#737373" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_2618_866">
+<rect width="1500" height="990" fill="white"/>
+</clipPath>
+</defs>
+</svg>

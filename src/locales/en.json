@@ -1,0 +1,1529 @@
+{
+  "home": {
+    "hero": {
+      "typewriter": {
+        "same": "Trade Smarter<br/>Not Harder"
+      }
+    , "subheadlineLine1": "Powerful Indicators And AI Trading Tools Built For Smart Traders",
+      "ctaPrimary": "Get 30 Days Risk Free"
+    },
+     "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "q": "Is CyberPips an AI trading platform?",
+          "a": "CyberPips combines advanced trading indicators with smart analytical tools to help traders build better strategies. Our higher plans also include AI-powered features for strategy optimization and automated alerts, fully integrated with TradingView."
+        },
+        {
+          "q": "Which CyberPips plan should I choose?",
+          "a": "The Premium plan is ideal for traders focused on technical analysis using powerful indicators and signals. The Ultimate plan is designed for traders who want AI-assisted strategy building, backtesting, and automation."
+        },
+        {
+          "q": "What markets does CyberPips support?",
+          "a": "CyberPips tools work on all markets available on TradingView, including forex, crypto, stocks, indices, and commodities, across all major timeframes."
+        },
+        {
+          "q": "Which platforms can I use CyberPips on?",
+          "a": "CyberPips indicators are built to work directly on TradingView. AI alerts can also be connected to external platforms using webhooks for advanced workflows."
+        },
+        {
+          "q": "Can CyberPips guarantee profits?",
+          "a": "No trading tool can guarantee profits. CyberPips is designed to support decision-making through structure, trend, and momentum analysis. Trading always involves risk."
+        },
+        {
+          "q": "Is CyberPips suitable for beginners?",
+          "a": "Yes. CyberPips is built to scale with your experience. Beginners can start with clear visual signals, while advanced traders can dive deeper into structure and AI-based analysis."
+        },
+        {
+          "q": "Can I change or upgrade my plan later?",
+          "a": "Yes. You can upgrade, downgrade, or extend your CyberPips plan at any time through your account dashboard."
+        }
+      ]
+  },
+
+    "features": {
+      "title": "Advanced Trading Tools Built for Precision",
+      "items": [
+        {
+          "title": "Institutional Market Analysis",
+          "text": "Our indicators are designed to identify smart money behavior, key liquidity zones, and high-probability reversal areas directly on your charts."
+        },
+        {
+          "title": "All-in-One Indicator System",
+          "text": "CyberPips combines trend direction, market structure, and momentum into one clean and powerful indicator suite without clutter."
+        },
+        {
+          "title": "Built for TradingView",
+          "text": "All CyberPips tools integrate seamlessly with TradingView, allowing you to analyze any market in real time using a familiar platform."
+        }
+      ]
+    },
+
+    "charts": {
+      "title": "Level Up Your Charts",
+      "text": "Transform your charts into a professional trading workspace with advanced signals, structure mapping, and momentum confirmation."
+    },
+
+    "testimonials": {
+      "title": "Trusted by Traders Worldwide",
+      "items": [
+        "CyberPips helped me simplify my trading and understand market structure clearly. The indicators work perfectly with my TradingView charts.",
+        "The tools are clean, accurate, and easy to use. CyberPips completely changed how I analyze price action.",
+        "What I like most is how everything works together in one system instead of using multiple indicators."
+      ]
+    },
+
+    "cta": {
+      "title": "Choose the Right Plan for Your Trading Style",
+      "subtitle": "Whether you trade scalping, swing, or long-term, CyberPips gives you the tools to analyze the market with confidence.",
+      "button": "View Plans"
+    }
+  },
+  "docs": {
+    "getStarted": {
+      "title": "Getting Started with CyberPips",
+      "intro": "CyberPips is a professional trading system designed to help traders analyze markets and make informed decisions.",
+
+      "whatIsTitle": "What Is CyberPips?",
+      "whatIsText": "CyberPips is a professional indicator and analysis system that works directly on TradingView to provide clear market insights.",
+
+      "howItWorksTitle": "How CyberPips Works",
+      "howItWorksText": "CyberPips combines market structure, trend direction, and momentum analysis to give traders a complete market view.",
+
+      "requirementsTitle": "Requirements",
+      "requirementsList": [
+        "A free TradingView account",
+        "An active CyberPips subscription",
+        "Basic technical analysis knowledge"
+      ],
+
+      "noticeTitle": "Important Notice",
+      "noticeText": "CyberPips is a decision-support tool, not a profit guarantee. Proper risk management is essential."
+    }
+  },
+  "footer": {
+    "nav": {
+      "about": "About",
+      "features": "Features",
+      "works": "Works",
+      "blog": "Blog",
+      "help": "Help",
+      "contacts": "Contacts",
+      "library" : "Library",
+      "disclaimer":"Disclaimer",
+      "cookiesPolicy":"Cookies",
+      "privacyPolicy":"PrivacyPolicy",
+      "support":"Support"
+
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "p1": "Trading is inherently risky, and many individuals may lose money as a result of trading activities. All content provided by Cyber Pips is for informational and educational purposes only and should not be interpreted as financial advice. Any decision to buy, sell, hold, or trade securities, commodities, cryptocurrencies, or other financial instruments involves significant risk and should be made in consultation with a qualified financial professional. Past performance is not indicative of future results.",
+      "p2": "Hypothetical or simulated performance results have well-known limitations. Unlike an actual performance record, simulated results do not reflect real trading and may be affected by factors such as liquidity or execution slippage. Simulated trading models are built with the benefit of hindsight and rely on historical market data. No guarantee is made that any account will achieve results similar to those shown in backtests or examples. Testimonials featured on this website are individual experiences and may not represent the typical results of other clients or users. They are not guarantees of future performance or success.",
+      "p3": {
+        "before": "As a provider of technical analysis tools and indicators,",
+        "after": "does not have access to personal trading accounts or brokerage statements of its users. Therefore, we cannot and do not make any representation that users of our tools achieve superior or inferior trading outcomes compared to the broader market."
+      },
+      "p4": {
+        "before": "Charts displayed on this website are powered by TradingView®, on which the majority of our tools are built. TradingView® is a registered trademark of TradingView, Inc.",
+        "after": "Cyber Pips is not affiliated with TradingView®."
+      },
+      "p5": {
+        "before": "This notice does not represent the entirety of our disclaimer. Please review our",
+        "strong": "full disclaimer",
+        "after": "for complete details. Market data is provided by CBOE, CME Group, BarChart, and CoinAPI. U.S. equities data (CBOE BZX, 15-minute delay) is licensed from CBOE and delivered through BarChart. Futures data (CME Group, 15-minute delay) is licensed and provided through BarChart. Select cryptocurrency data is provided via CoinAPI. All data is provided \"as is\" and should be independently verified before making any trading decisions."
+      },
+      "copyright": "© 2025 Cyber Pips. All rights reserved"
+    },"links":{
+      "instagram":"https://www.instagram.com/cyberpips.us/",
+      "facebook":"https://www.facebook.com/share/1DHFF1pc4a/?mibextid=wwXIfr",
+      "telegram":"https://t.me/Cyberpipsofficial"
+    }
+  },
+  "blog": {
+    "hero": {
+         "title": "BLOG",
+      "subtitle": "Insights, updates, and expertise from the CyberPips team"
+    },
+    "sections": {
+      "what": {
+        "title": "What is CyberPips?",
+        "text": "CyberPips is a next-generation trading platform designed to deliver institutional-level analysis to retail traders. By combining advanced technical indicators with AI-powered backtesting, CyberPips enables traders to understand market structure, momentum, and high-probability setups across forex, crypto, stocks, and commodities."
+      },
+      "why": {
+        "title": "Why Choose CyberPips?",
+        "text": "CyberPips is built for traders who value precision, clarity, and efficiency. Unlike traditional trading platforms, we focus on actionable insights through automation, real-time analysis, and data-driven tools. Backed by a growing community of over 15,000 active traders, CyberPips helps you trade smarter while saving time."
+      },
+      "vision": {
+        "title": "Our Vision: Democratizing Professional Trading Tools",
+        "text": "We believe professional trading tools should be accessible to everyone, not limited to institutions. CyberPips was created with transparency, education, and innovation at its core. Our mission is to empower traders at every level with powerful tools, clear insights, and a supportive trading community."
+      }
+    }
+  },"about": {
+    "hero": {
+        "title":"ABOUT",
+        "subtitle": "The complete trading <1/>  <2/>automated <3/> technical trading"
+    },
+
+    "company": {
+      "title": "Our Company",
+      "text": "CyberPips is an independent trading technology company built by traders for traders. We focus entirely on delivering real value through our tools, without relying on institutional funding or external interests that conflict with retail traders."
+    },
+
+    "stats": {
+      "items": [
+        {
+          "value": "15K+",
+          "label": "Active Traders"
+        },
+        {
+          "value": "2020",
+          "label": "Founded"
+        },
+        {
+          "value": "1M+",
+          "label": "Chart Followers"
+        }
+      ]
+    },
+
+    "innovation": {
+      "title": "Innovation Through Automation",
+      "text": "We have transformed complex trading concepts, price action theories, and institutional models into easy-to-use indicators. CyberPips allows traders to save countless hours by automating analysis, validating strategies, and identifying high-probability setups directly on their charts."
+    },
+
+    "vision": {
+      "title": "Redefining Technical Trading",
+      "text": "CyberPips has grown through a community-driven approach. Our tools are continuously refined based on trader feedback, market evolution, and real-world usage to ensure long-term reliability and performance."
+    },
+
+    "cta": {
+      "title": "Explore the CyberPips Ecosystem",
+      "subtitle": "Learn how our indicators and systems can help you upgrade your charts and trade with greater confidence.",
+      "primary": "Explore Features",
+      "secondary": "Choose a Plan"
+    }
+  },
+  "affiliates": {
+    "title":"AFFILIATES",
+    "hero": {
+      "title": "CyberPips Affiliate Program",
+      "subtitle": "Recommend CyberPips to your audience and earn recurring commission in cash."
+    },
+
+    "cta": {
+      "primary": "Get Access Now"
+    },
+
+    "steps": {
+      "title": "Steps to Get Started",
+      "items": [
+        {
+          "title": "Sign up as an affiliate",
+          "text": "Register using the affiliate form and complete your payout information."
+        },
+        {
+          "title": "Share your affiliate link",
+          "text": "Promote your unique link and track its performance directly from your dashboard."
+        },
+        {
+          "title": "Earn recurring commission",
+          "text": "Receive monthly payouts for every active subscription generated through your link."
+        }
+      ]
+    },
+
+    "benefits": {
+      "title": "Affiliate Program Benefits",
+      "items": [
+        {
+          "title": "High commission",
+          "text": "Earn  recurring commission on every subscription you refer."
+        },
+        {
+          "title": "Monthly income",
+          "text": "Get paid every month directly to your PayPal account or USDT Wallet."
+        },
+        {
+          "title": "60-day tracking",
+          "text": "Referrals that sign up within 60 days are credited to you."
+        }
+      ]
+    },
+
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How do I sign up?",
+          "a": "Sign up by entering your email and completing the affiliate registration process."
+        },
+        {
+          "q": "How do I receive payouts?",
+          "a": "Payouts are sent monthly via PayPal after adding your payment details in the dashboard."
+        },
+        {
+          "q": "What is the commission structure?",
+          "a": "Affiliates start with 20% recurring commission for each active referral."
+        },
+        {
+          "q": "How are sales approved?",
+          "a": "Conversions remain pending for 30 days before being approved to respect refund policies."
+        },
+        {
+          "q": "How can I track my progress?",
+          "a": "All performance metrics and payouts can be viewed in real-time from your affiliate dashboard."
+        }
+      ]
+    }
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Find the plan that fits your trading style.",
+    "partnerBlock":{
+      "message":"You are logged in as a partner. Subscriptions are available only for user accounts"
+    },
+    "toggle": {
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    },
+
+    "errors": {
+      "checkoutFailed": "Failed to create checkout session. Please try again.",
+      "unauthenticated": "User not authenticated. Please login first.",
+      "generic": "Something went wrong. Please try again."
+    },
+    "preview": {
+    "title": "Confirm plan change",
+    "subTitle": "Here’s a breakdown before we update your subscription.",
+    "newSubtotal": "New plan subtotal",
+    "unusedCredit": "Unused time credit",
+    "amountDue": "Amount due now",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "currentPlan": "Current plan",
+      "newPlan": "New plan",
+      "renewalDate": "Next renewal date",
+      "remainingTime": "Remaining time",
+      "usedTime": "Used time",
+      "days": "days",
+      "showDetails": "Show details",
+      "hideDetails": "Hide details"
+  },
+  "toast": {
+    "planChanged": "Plan updated successfully.",
+    "planChangeFailed": "Failed to update plan. Please try again."
+  },
+
+    "plans": {
+      "premium": {
+  "title": "Pro",
+  "badge": "Best Value for Serious Traders",
+  "features": {
+    "indicators": "Access to 3 Professional CyberPips Indicators",
+    "advancedScreeners": "High-Accuracy Trend & Signal Detection",
+    "unlimitedBacktests": "Smart Signal Filtering & Confirmation",
+    "prioritySupport": "Dedicated Technical Support",
+    "aiAssistant": "Advanced Market Insight Engine",
+    "customStrategies": "Manual Trading with Clear Entry & Exit Signals",
+    "apiAccess": "TradingView-Based Activation",
+    "whiteLabel": "Continuous Indicator Updates"
+  }
+},
+
+      "enterprise": {
+  "title": "Pro Max",
+  "badge": "Maximum Power • Maximum Precision",
+  "features": {
+    "indicators500": "Full Access to All CyberPips Indicators",
+    "customScreeners": "Smart Money & Market Structure Analysis",
+    "unlimitedEverything": "Complete Trading System (Trend + Structure + Momentum)",
+    "phoneSupport": "Priority Support & Direct Assistance",
+    "aiAssistantPro": "Automated Buy / Sell with TP & SL",
+    "unlimitedStrategies": "Advanced Momentum & Reversal Confirmation",
+    "fullApiAccess": "Professional TradingView Integration",
+    "whiteLabelOptions": "Lifetime Updates & Premium Features"
+  }
+}
+    },
+
+     "actions": {
+    "currentPlan": "Current plan",
+    "upgrade": "Upgrade",
+    "downgrade": "Downgrade",
+    "processing": "Processing...",
+    "orderNow": "Order now",
+    "partnerDisabled":"Not available for partners"
+  },
+    "usdt": {
+  "title": "Pay with USDT",
+  "description": "Prefer crypto? Subscribe using USDT through our official Telegram bot.",
+  "action": "Subscribe via Telegram Bot"
+}
+
+  },
+  "login": {
+    "title": "Sign In",
+    "newUser": "New?",
+    "createAccount": "Create account",
+
+    "email": "Email",
+    "password": "Password",
+
+    "emailPlaceholder": "email@domain.com",
+    "passwordPlaceholder": "••••••",
+
+    "login": "Login",
+    "loggingIn": "Logging in...",
+    "continueWithGoogle": "Continue with Google",
+
+    "forgotPassword": "Forgot password?",
+
+    "errors": {
+      "invalidCredentials": "Invalid email or password",
+      "invalidEmail": "Invalid email address",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required"
+    },
+    "affiliate": {
+  "title": "Affiliate Partner?",
+  "subtitle": "Login to manage referrals and commissions",
+  "action": "Affiliate Login"
+}
+
+  },"register": {
+  "title": "Create Account",
+  "haveAccount": "Already have an account?",
+  "login": "Login",
+
+  "fields": {
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password"
+  },
+
+  "actions": {
+    "create": "Create Account",
+    "loading": "Loading...",
+    "google": "Continue with Google"
+  },
+
+  "validation": {
+    "nameMin": "Minimum length is 3",
+    "nameMax": "Maximum length is 10",
+    "nameRequired": "Name is required",
+    "emailInvalid": "Invalid Email",
+    "emailRequired": "Email is required",
+    "passwordRule": "Password must be more than 8 characters",
+    "passwordRequired": "Password is required",
+    "passwordMatch": "Passwords don't match",
+    "confirmRequired": "Confirm password is required"
+  },
+
+  "errors": {
+    "generic": "Something went wrong. Please try again."
+  }
+  },
+  "verify": {
+    "title": "Verify Your Account",
+    "subtitle": "Enter the verification code sent to your email.",
+    "placeholder": "Verification code",
+    "verifyBtn": "Verify Code",
+    "resendBtn": "Resend Code",
+    "resendIn": "You can resend code in",
+    "success": "Your account has been verified successfully.",
+    "codeResent": "Verification code resent.",
+    "invalidCode": "Invalid verification code.",
+    "alreadyVerified": "Your email is already verified."
+  },
+  "Userdashboard": {
+    "aria": "User dashboard",
+    "title": "Your Account Settings",
+    "welcome": "Welcome back,",
+    "accountInfo": "Account Info",
+    "email": "Email",
+    "tradingView": "TradingView",
+    "subscribe": "Subscribe now",
+
+    "billing": "Billing",
+    "billingHistory": "Billing History",
+    "viewInvoices":"Invoice",
+    "cancelSubscription":"Cancel Subscription",
+    "loading":"Loading",
+    "canceling":"canceling",
+    "invoices":"Invoices",
+
+    "table": {
+      "date": "Date",
+      "endAt": "End At",
+      "product": "Product",
+      "status": "Status",
+      "total": "Total"
+    },
+
+    "status": {
+      "active": "Active",
+      "expired": "Expired",
+      "canceling":"canceling",
+      "canceled":"cancelled"
+    },"tv": {
+      "addBtn": "Add TradingView Username",
+      "updateBtn": "Update TradingView Username",
+      "placeholder": "Enter your TradingView username",
+      "save": "Save",
+      "saving": "Saving...",
+      "cancel": "Cancel",
+      "empty": "Please enter a username.",
+      "added": "TradingView username added successfully.",
+      "updated": "TradingView username updated successfully.",
+      "failed": "Failed to save username. Please try again."
+    },
+
+    "needHelp": "Need Help?",
+
+    "questions": {
+      "title": "Questions?",
+      "text": "For more information about billing and pricing, visit our",
+      "link": "help center"
+    },
+
+    "support": {
+      "title": "Contact support",
+      "text": "Our support team is here to help with any questions you may have!",
+      "button": "Contact support",
+      "cancel": "Cancel my account"
+    }
+  },"unverified": {
+    "title": "Verify My Account",
+    "description": "Your account has not been verified. Please verify your email.",
+    "send": "Send Verification Code",
+    "sending": "Sending...",
+    "success": "Verification code sent to your email!",
+    "error": "Failed to send code. Please try again."
+  }, "tradingView": {
+    "title": "TradingView Account",
+    "description": "Add your TradingView username to link your account",
+    "placeholder": "TradingView username",
+    "save": "Save Username",
+    "errors": {
+      "required": "TradingView username is required",
+      "generic": "Something went wrong"
+    }
+  }, "subscriptionSuccess": {
+    "title": "Subscription Successful 🎉",
+    "description": "Your subscription has been activated successfully.",
+    "addTvUsername": "Add your TradingView username"
+  }, "subscriptionFailed": {
+    "title": "Payment Failed ❌",
+    "description": "Something went wrong with your payment. Please try again.",
+    "tryAgain": "Try Again"
+  },"registerSuccess": {
+    "title": "Account Created ✅",
+    "description": "Your account has been created successfully. Please verify your email.",
+    "send": "Send Verification Code",
+    "sending": "Sending...",
+    "success": "Verification code sent to your email!",
+    "error": "Failed to send code. Please try again."
+  }, "paymentSuccess": {
+    "title": "Payment Successful",
+    "message": "Your payment was completed successfully.",
+    "subMessageTradingView": "One last step: add your TradingView username.",
+    "subMessageDashboard": "You're all set! You can continue from your dashboard.",
+    "goTradingView": "Add TradingView Username",
+    "goDashboard": "Go to Dashboard",
+    "loading": "Loading..."
+  },"paymentCancel": {
+    "title": "Payment Cancelled",
+    "message": "No worries! Your payment was not processed.",
+    "subMessage": "Feel free to try again whenever you're ready.",
+    "viewPlans": "View Plans Again",
+    "dashboard": "Go to Dashboard"
+  },
+  "notFound": {
+    "subtitle": "Oops… this page drifted into the void ✨",
+    "goHome": "Go Home"
+  },"newPassword": {
+    "title": "Create New Password",
+    "password": "New password",
+    "confirmPassword": "Confirm password",
+    "submit": "Update Password",
+    "error": "Reset failed"
+  },"nav": {
+    "features": "Features",
+    "resources": "Resources",
+    "docs": "Docs",
+    "blog": "Blog",
+    "about": "About",
+    "community": "Community",
+    "affiliates": "Affiliates",
+    "library": "Library",
+    "pricing": "Pricing",
+    "language": "Language",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "profile": "Profile",
+    "logout": "Logout",
+    "welcome": "Welcome, {{name}}!",
+    "home":"Home",
+    "lang": {
+      "en": "English",
+      "de": "Deutsch",
+      "ar": "Arabic"
+    }
+  }, "loading": {
+    "text": "Loading experience..."
+  },"prices": {
+    "heading": {
+      "title": "Choose your trading arsenal",
+      "subtitle1": "Start with a 30-day money-back guarantee.",
+      "subtitle2": "No hidden fees, cancel anytime"
+    },
+    "plans": {
+      "popular": "MOST POPULAR"
+    }
+  },"forgot": {
+    "title": "Forgot Password",
+    "subtitle": "Enter your email to receive a reset link.",
+    "emailPlaceholder": "Email address",
+    "sendButton": "Send Reset Link",
+    "error": "Something went wrong"
+  }, "affiliate": {
+    "verify": {
+      "title": "Verify Your Email",
+      "subtitle": "Enter the verification code sent to your email.",
+      "verifyBtn": "Verify Code",
+      "codePlaceholder": "Verification code",
+      "resendBtn": "Resend Code",
+      "countdown": "You can resend code in {{seconds}}s"
+    }
+  },
+  "affiliate_apply": {
+    "apply": {
+      "title": "Become an Affiliate",
+      "subtitle": "Join & start earning today"
+    },
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "password": "Password",
+      "comment": "How will you promote us?",
+      "commentPlaceholder": "Socials, blog, ads, etc.",
+      "paypalemail":"Add your PayPal or USDT TRC20 Wallet Address "
+    },
+    "actions": {
+      "apply": "Apply Now",
+      "submitting": "Submitting...",
+      "saveDraft": "Save Draft"
+    },
+    "info": {
+      "title": "Why become an affiliate?",
+      "commission": " recurring commission",
+      "payouts": "Monthly payouts via PayPal",
+      "cookie": "60-day cookie duration",
+      "support": "Dedicated affiliate support"
+    },
+  "affiliateApply": {
+    "validation": {
+      "nameMin": "Name must be at least 3 characters",
+      "nameRequired": "Full name is required",
+      "emailInvalid": "Invalid email address",
+      "emailRequired": "Email is required",
+      "passwordMin": "Password must be at least 8 characters",
+      "passwordRequired": "Password is required",
+      "commentMin": "Please provide more details (minimum 10 characters)",
+      "commentRequired": "Please tell us how you will promote us",
+      "paypalemailMin":"Paypal Email must be at least 8 characters",
+      "paypalemailRequired":"Paypal Email is required"
+    }
+  }
+
+    
+  }, "Affilifate_resetPassword": {
+    "title": "Create New Password",
+    "subtitle": "Set a strong password for your account.",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm password",
+    "submit": "Update Password",
+    "invalidOrExpiredLink": "Invalid or expired reset link"
+
+  },
+  "affiliateLogin": {
+    "title": "Affiliate Login",
+    "partner": "Partner?",
+    "apply": "Apply",
+    "businessEmail": "Business Email",
+    "emailPlaceholder": "your.email@company.com",
+    "password": "Password",
+    "login": "Login",
+    "verifying": "Verifying...",
+    "needHelp": "Need help?",
+    "forgotPassword": "Forgot password?",
+    "errors": {
+      "invalidCredentials": "Invalid email or password. Please check your credentials.",
+      "loginFailed": "Login failed. Please try again."
+    },
+    "validation": {
+      "emailInvalid": "Invalid business email",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required"
+    }
+  },"affiliateForgetPassword": {
+    "title": "Forgot Password",
+    "subtitle": "Enter your email to receive a reset link.",
+    "emailPlaceholder": "Email address",
+    "submit": "Send Reset Link",
+    "success": "Reset link sent successfully.",
+    "error": "Something went wrong. Please try again."
+  },
+  
+  "affiliateDashboard": {
+    "partner": "Partner",
+    "copyLink": "Copy Link",
+    "copied": "✓ Copied!",
+    "subscribedUsers": "Subscribed Users",
+    "totalEarnings": "Total Earnings",
+    "users": "Users",
+    "moreInfo": "More Information",
+    "refCode": "Your Reference Code",
+    "link": "Link",
+    "email": "Email",
+    "status": "Status",
+    "paid": "Paid",
+    "unpaid": "Unpaid",
+    "planName": "Plan Name",
+    "price": "Price",
+    "paypalemail": "PayPal Email or USDT wallet address",
+    "clicks": "clicks",
+    "commission": "Commission",
+
+    "requestPayout": {
+      "title": "Request Payout",
+      "desc": "Enter the amount you want to withdraw.",
+      "amount": "Amount",
+      "button": "Request Payout",
+      "invalidAmount": "Enter a valid amount",
+      "sent": "Payout request sent"
+    },
+
+    "paypal": {
+      "title": "PayPal Email or USDT TRC20 Wallet Address",
+      "desc": "Update your PayPal email or USDT TRC20 Wallet Address",
+      "placeholder": "PayPal Email or USDT TRC20 Wallet Adresse",
+      "button": "Update Payment Details",
+      "invalidEmail": "Enter a valid email",
+      "updated": "PayPal email updated"
+    },
+
+    "tabs": {
+      "analytics": "Analytics",
+      "resources": "Resources"
+    },
+
+    "resources": {
+      "title": "Resources",
+      "referralsTab": "Users",
+      "earningsTab": "Earnings",
+      "searchPlaceholder": "Search by name or email...",
+      "fromDate": "From date",
+      "toDate": "To date",
+      "clear": "Clear",
+      "filters": {
+        "all": "All time",
+        "thisMonth": "This month",
+        "lastMonth": "Last month"
+      },
+      "totalReferrals": "Total users:",
+      "totalEarnings": "Total earnings:",
+      "columns": {
+        "name": "Name",
+        "email": "Email",
+        "joined": "Joined",
+        "plan": "Plan",
+        "subscribed": "Subscribed",
+        "earning": "Earning",
+        "date": "Date",
+        "user": "User",
+        "amount": "Amount",
+        "status": "Status",
+        "percentage": "Commission %"
+      },
+      "yes": "Yes",
+      "no": "No",
+      "empty": "No data found."
+    },
+
+    "loading": "Loading...",
+    "toast": { "copied": "Link copied!" },
+
+    "errors": {
+      "loadFailed": "Failed to load dashboard",
+      "copyFailed": "Failed to copy",
+      "generic": "Something went wrong"
+    },
+
+    "Status": {
+      "pending": "Pending",
+      "approved": "Approved",
+      "rejected": "Rejected"
+    },
+
+    "payout": {
+      "centerTitle": "Payout Center",
+      "refresh": "Refresh",
+      "available": "Available balance",
+      "bank": "Bank",
+      "paypalEmail": "PayPal email",
+      "bankDetails": "Bank details",
+      "bankPlaceholder": "IBAN, account name, bank name...",
+      "usdtWallet": "USDT wallet (TRC20)",
+      "fillRequired": "Please fill the required field",
+      "exceedsBalance": "Requested amount exceeds available balance",
+      "historyTitle": "Payout history",
+      "historyCount": "Requests",
+
+      "bankPlaceholders": {
+        "bank_name": "Bank name",
+        "account_name": "Account holder name",
+        "account_number": "Account number",
+        "iban": "IBAN (optional if SWIFT provided)",
+        "swift": "SWIFT / BIC (optional if IBAN provided)",
+        "bank_address": "Bank address (optional)",
+        "country": "Country (optional)",
+        "city": "City (optional)"
+      },
+
+      "bankFields": {
+        "bank_name": "Bank name",
+        "account_name": "Account name",
+        "account_number": "Account number",
+        "iban": "IBAN",
+        "swift": "SWIFT/BIC",
+        "bank_address": "Bank address",
+        "country": "Country",
+        "city": "City"
+      },
+
+      "bankNeedIbanOrSwift": "Please enter IBAN or SWIFT/BIC.",
+      "bankRequiredField": "Please fill: {{field}}",
+
+      "columns": {
+        "id": "ID",
+        "amount": "Amount",
+        "method": "Method",
+        "details": "Details",
+        "requestedAt": "Requested at",
+        "processedAt": "Processed at",
+        "status": "Status"
+      }
+    }
+  }
+    ,
+    "affiliateApplySuccess": {
+    "title": "Application Submitted 🎉",
+    "subtitle": "Thank you for applying to our affiliate program. Please verify your email to continue.",
+    "sendButton": "Send Verification Code",
+    "sending": "Sending...",
+    "successMessage": "Verification code sent to your email!",
+    "errorMessage": "Failed to send code. Please try again."
+  },
+   "admin": {
+    "title": "Admin Dashboard",
+    "hello": "Hello Mr Abdullah",
+    "sideMenu":"Menu",
+    "menu": {
+      "analytics": "Analytics",
+      "users": "Users",
+      "partnerRequests": "Partner Requests",
+      "partners": "Partners",
+      "subscriptions": "Subscriptions",
+      "settings": "Settings",
+      "payoutrequests":"Payout Requests"
+    }
+  },
+  "admin_analytics": {
+    "kpis": {
+      "activeSubscriptions": "Active Subscriptions",
+      "canceledThisMonth": "Canceled (This Month)",
+      "estimatedMrr": "Estimated MRR",
+      "arpu": "ARPU",
+      "partnerRevenueMonth": "Partner Revenue (This Month)",
+      "subs": "Subs",
+      "partnerEarningsMonth": "Partner Earnings (This Month)",
+      "commissionCreatedThisMonth": "Commission created this month",
+      "paidToPartnersMonth": "Paid to Partners (This Month)",
+      "pendingTotal": "Pending total",
+      "newSubscriptions": "New Subscriptions",
+      "thisWeek": "this week",
+      "directRevenueMonth": "Direct Revenue (Month)",
+      "directRevenueHint": "Revenue from users without partner",
+      "conversionRateMonth": "Conversion Rate (This Month)",
+      "usersSubscribed": "{{subscribers}} / {{users}} users subscribed"
+    },
+    "analytics": {
+      "totalUsers": "Total Users",
+      "activePartners": "Active Partners",
+      "monthlyRevenue": "Monthly Revenue",
+      "thisWeek": "this week",
+      "thisMonth": "this month",
+      "vsPrevious": "vs previous",
+      "recentActivity": "Recent Activity",
+      "table": {
+        "time": "Time",
+        "user": "User",
+        "plan": "Plan",
+        "status": "Status"
+      }
+    },
+     "sections": {
+      "topPartners90": "Top Partners (Last 90 days)",
+      "topPlans90": "Top Plans (Last 90 days)",
+      "subscriptionMonths6": "Subscription Months (Last 6 months)",
+      "recentUsers": "Recent Users (Last 7 days)"
+    },
+    "tables": {
+      "partner": "Partner",
+      "plan": "Plan",
+      "currency": "Currency",
+      "subscriptions": "Subscriptions",
+      "revenue": "Revenue",
+      "month": "Month",
+      "time": "Time",
+      "name": "Name",
+      "email": "Email",
+      "tradingviewusername": "TradingView Username"
+    }
+    ,"commission": {
+      "placeholder": "Commission %",
+      "update": "Update Commission",
+      "updating": "Updating...",
+      "success": "Commission updated successfully",
+      "commission":"Affiliate Commission"
+    }
+  },
+  "admin_partnerRequests": {
+    "title": "Partner Requests",
+    "subtitle": "Review and manage incoming partner applications",
+    "confirmReject": "Are you sure you want to reject this partner?",
+    "empty": "No pending requests",
+    "table": {
+      "name": "Name",
+      "email": "Email",
+      "comment": "Comment",
+      "requestedAt": "Requested At",
+      "action": "Action"
+    },
+    "actions": {
+      "approve": "Approve",
+      "reject": "Reject"
+    },
+    "messages": {
+      "approved": "Affiliate approved successfully",
+      "rejected": "Affiliate rejected successfully",
+      "approveError": "Failed to approve partner",
+      "rejectError": "Failed to reject partner"
+    }
+  },
+  "admin_partners": {
+    "title": "Partners",
+    "noPartners": "No partners yet.",
+    "total":"Total",
+    "table": {
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "refCode": "Reference Code",
+      "comment": "Comment",
+      "paypal": "PayPal",
+      "clicks": "Clicks",
+      "status": "Status"
+    },
+     "searchPlaceholder": "Search by name, email, ref code, or PayPal...",
+    "filters": {
+      "all": "All time",
+      "this_month": "This month",
+      "last_month": "Last month",
+      "last_3_months": "Last 3 months",
+      "last_6_months": "Last 6 months"
+    },
+    "from": "Start date",
+    "to": "End date",
+    "clear": "Clear",
+    "loading": "Loading...",
+    "errors": {
+      "generic": "Something went wrong"
+    }
+  },
+   "admin_partnerDetails": {
+    "details": "Details",
+    "back": "Back",
+    "id": "ID",
+    "email": "Email",
+    "referrals": "Referrals",
+    "noReferrals": "No referrals yet.",
+    "user": "User",
+    "subscribed": "Subscribed",
+    "joinedAt": "Joined At",
+    "yes": "Yes",
+    "no": "No",
+    "earnings": "Earnings",
+    "total": "Total",
+    "noEarnings": "No earnings yet.",
+    "deposit": "Deposit Amount",
+    "percentage": "Earning Percentage",
+    "amount": "Earning Amount",
+    "status": "Status",
+    "date": "Date",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "statusUpdated": "Status updated successfully ✅",
+    "statusUpdateFailed": "Failed to update status ❌",
+    "title": "Partner Details",
+    "partnerId": "Partner ID",
+    "name": "Name",
+    "commission": {
+      "title": "Custom commission",
+      "subtitle": "Set a custom commission for this partner (0–100). Leave empty to remove it.",
+      "label": "Commission (%)",
+      "placeholder": "e.g. 15",
+      "current": "Current custom commission:",
+      "actions": { "save": "Save", "reset": "Reset" },
+      "messages": { "saved": "Commission saved", "reset": "Custom commission removed" },
+      "errors": {
+        "invalidRange": "Commission must be between 0 and 100",
+        "saveFailed": "Failed to update commission"
+      }
+  }
+},
+  "admin_settings": {
+    "title": "Plans Settings",
+    "subtitle": "Manage subscription plans & Stripe prices",
+    "loading": "Loading plans...",
+    "plan": "Plan",
+    "interval": "Interval",
+    "amount": "Amount",
+    "currency": "Currency",
+    "onSale": "On Sale",
+    "yes": "Yes",
+    "no": "No",
+    "percentage":"percentage",
+    "amount_before_sale":"Amount Before",
+    "addPlan": "Add New Plan",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "create": "Create",
+    "createSuccess": "Plan created successfully",
+    "createFailed": "Creation failed",
+    "loadFailed": "Failed to load plans",
+    "active":"true",
+    "inactive":"false",
+    "status":"Is active",
+    "action":"Change",
+    "deactivate":"De active",
+    "activate":"Active"
+  },
+  "admin_subscriptions": {
+    "title": "Subscriptions 💳",
+    "subtitle": "All users subscriptions overview",
+    "user": "User",
+    "email": "Email",
+    "plan": "Plan",
+    "interval": "Interval",
+    "amount": "Amount",
+    "status": "Status",
+    "start_at": "Start At",
+    "end_at": "Ends At",
+    "no_data": "No subscriptions found 😴",
+
+    "status_active": "Active",
+    "status_canceled": "Canceled",
+    "status_pending": "Pending",
+    "status_canceling":"Canceling",
+    "searchPlaceholder": "Search by name / email / plan...",
+    "filterLabel": "Filter",
+    "fromLabel": "Start date",
+    "toLabel": "End date",
+    "clear": "Clear",
+    "export": "Export CSV",
+    "exporting": "Exporting...",
+     "filters": {
+      "all": "All time",
+      "this_month": "This month",
+      "last_month": "Last month",
+      "last_3_months": "Last 3 months",
+      "last_6_months": "Last 6 months"
+    }
+  
+  },"admin_users":{
+  "title": "Users",
+  "no_users": "No users yet.",
+  "total":"Total",
+  "table": {
+    "id": "ID",
+    "name": "Name",
+    "email": "Email",
+    "affiliate": "Affiliate",
+    "created_at": "Created at",
+    "tradingview": "TradingView username"
+  },
+  "time": {
+    "just_now": "just now",
+    "minutes_ago": "{{count}}m ago",
+    "hours_ago": "{{count}}h ago",
+    "days_ago": "{{count}}d ago"
+  },"searchPlaceholder": "Search by name or email...",
+    "filters": {
+      "all": "All time",
+      "this_month": "This month",
+      "last_month": "Last month",
+      "last_3_months": "Last 3 months",
+      "last_6_months": "Last 6 months"
+    },
+    "from": "Start date",
+    "to": "End date",
+    "clear": "Clear",
+    "loading": "Loading..."
+
+  },"community":{
+     "title": "Join Our Community",
+    "subtitle": "Connect with us, share ideas, and grow together.",
+    "button": "Join Telegram",
+    "link":"https://t.me/Cyberpipsofficial"
+  },
+  "feedback": {
+    "title":"What our clients say about us our client",
+    "client_one": {
+      "title": "Professional Trader",
+      "comment":"As someone who never traded before, I was surprised at how quickly I improved. The indicators are clear, inspiring, and fun to follow.",
+      "head":"Hands down BEST indicators you can find"
+    },
+    "client_two":{
+      "title":"Day Trader",
+      "comment":"CyberPips transformed my trading strategy. The backtesting tool is incredibly accurate and helped me refine my approach.",
+      "head":"Great for giving you additional confidence"
+    },
+    "client_three":{
+      "title":"Crypto Trader",
+      "comment":"The AI-powered indicators are game-changers. I've seen significant improvement in my trading decisions since joining.",
+      "head":"very helpful"
+    },"client_four": {
+    "head": "Reliable and Professional",
+    "comment": "The signals are accurate and easy to follow. I feel much more confident trading now.",
+    "title": "Swing Trader"
+  },
+  "client_five": {
+    "head": "Perfect for Beginners",
+    "comment": "I started with zero experience, and this platform helped me understand the market step by step.",
+    "title": "Beginner Trader"
+  },
+  "client_six": {
+    "head": "Great Support Team",
+    "comment": "Whenever I had questions, the support team was fast and helpful.",
+    "title": "Forex Trader"
+  },
+  "client_seven": {
+    "head": "Highly Recommended",
+    "comment": "The tools and indicators saved me a lot of time and improved my results.",
+    "title": "Crypto Investor"
+  }
+  },"admin_payoutRequests":{
+     "title": "Payout Requests",
+    "subtitle": "Review affiliate payout requests and manage their history.",
+    "loadError": "Failed to load payout requests",
+    "success": "Payout {{status}} successfully",
+    "actionFailed": "Action failed",
+    "affiliate": "Affiliate",
+    "email": "Email",
+    "amount": "Amount",
+    "requestedAt": "Requested At",
+    "action": "Action",
+    "empty": "No payout requests found",
+    "approve": "Approve",
+    "reject": "Reject",
+    "searchPlaceholder": "Search by affiliate name, email, method, or status...",
+    "filters": {
+      "all": "All time",
+      "this_month": "This month",
+      "last_month": "Last month",
+      "last_3_months": "Last 3 months",
+      "last_6_months": "Last 6 months"
+    },
+    "from": "Start date",
+    "to": "End date",
+    "clear": "Clear",
+    "loading": "Loading...",
+     "bankFields": {
+      "bank_name": "Bank name",
+      "account_name": "Account name",
+      "account_number": "Account number",
+      "iban": "IBAN",
+      "swift": "SWIFT/BIC",
+      "bank_address": "Bank address",
+      "country": "Country",
+      "city": "City"
+    },
+    "requestsTitle": "Pending Requests",
+    "requestsSubtitle": "These requests are waiting for approval or rejection.",
+    "historyTitle": "History",
+    "historySubtitle": "Approved and rejected payout requests.",
+    "historyFilters": {
+      "all": "All (Approved + Rejected)",
+      "approved": "Approved only",
+      "rejected": "Rejected only"
+    },
+    "method": "Method",
+    "processedAt": "Processed At",
+    "status": "Status",
+    "adminNote": "Admin Note",
+    "notePlaceholder": "Write a note (optional)...",
+
+    "status_pending": "Pending",
+    "status_approved": "Approved",
+    "status_rejected": "Rejected",
+
+    "emptyRequests": "No pending requests.",
+    "emptyHistory": "No history records.",
+    "loadFailed": "Failed to load payout requests.",
+    "updateSuccess": "Status updated: {{status}}",
+    "pendingTitle": "Pending Requests",
+    "emptyPending": "No pending requests",
+    "methods": {
+      "all": "All methods",
+      "paypal": "PayPal",
+      "bank": "Bank",
+      "usdt": "USDT (TRC20)"
+    },
+    "table": {
+      "affiliate": "Affiliate",
+      "email": "Email",
+      "amount": "Amount",
+      "method": "Method",
+      "details": "Details",
+      "balanceBefore": "Balance Before",
+      "balancecurrent": "Current Balance",
+      "balanceAfter": "Balance After",
+      "adminNote": "Admin Note",
+      "requestedAt": "Requested At",
+      "processedAt": "Processed At",
+      "status": "Status",
+      "action": "Action"
+    }
+  },"library": {
+    "title": "Indicator Library",
+    "subtitle": "Explore CyberPips proprietary trading tools",
+    "seeDetails": "See Details"
+  },
+  "indicators": {
+    "button":"See Details",
+    "title":"Indicator Library",
+    "subtitle":"Explore CyberPips proprietary trading tools",
+    "back":"Back",
+    "explore":"Explore More",
+    "smart": {
+      "title": "CyberPips Smart Structure Suite",
+      "description": "CyberPips Smart Structure Suite is a professional Smart Money Concepts indicator designed to transform your chart into an institutional-grade decision system. It automatically detects market structure, liquidity areas, Premium/Discount zones, and key imbalance concepts, while offering extensive customization and multi-timeframe analysis",
+      "subtitle":"Institutional Smart Money Analysis — Fully Automated",
+      "features_title": "Key Features",
+    "features": {
+      "market_structure": {
+        "title": "Market Structure (BOS / CHoCH)",
+        "points": [
+          "Automatic Break of Structure (BOS) and Change of Character (CHoCH) detection",
+          "Two structure layers: Swing Structure and Internal Structure",
+          "Flexible display options for bullish/bearish structure and label sizing"
+        ]
+      },
+      "swing_points": {
+        "title": "Swing Points + Strong/Weak High/Low",
+        "points": [
+          "HH / HL / LH / LL swing labeling",
+          "Strong High / Weak High and Strong Low / Weak Low visualization",
+          "Optional percentage positioning within the current range"
+        ]
+      },
+      "order_blocks": {
+        "title": "Professional Order Blocks (Internal & Swing)",
+        "points": [
+          "Automatic plotting of Internal and Swing Order Blocks",
+          "Smart mitigation removal based on Close or High/Low",
+          "Filtering options using ATR or Cumulative Mean Range",
+          "Optional OB metrics such as volume"
+        ]
+      },
+      "fvg": {
+        "title": "Fair Value Gaps (FVG)",
+        "points": [
+          "Detection and plotting of Bullish and Bearish FVGs",
+          "Auto Threshold adapts to market volatility",
+          "Extend and automatically remove gaps upon mitigation"
+        ]
+      },
+      "liquidity": {
+        "title": "Liquidity Concepts",
+        "points": [
+          "Equal Highs and Equal Lows detection",
+          "Bar-based confirmation",
+          "ATR-based threshold"
+        ]
+      },
+      "zones": {
+        "title": "Premium / Discount Zones + Equilibrium",
+        "points": [
+          "Automatic plotting of Premium, Equilibrium, and Discount zones",
+          "Live percentage positioning for faster decision-making"
+        ]
+      },
+      "trendlines": {
+        "title": "Automatic Trendlines",
+        "points": [
+          "Automatically drawn trendlines based on pivot touches",
+          "Optional extensions and trend break visualization"
+        ]
+      },
+      "mtf_dashboard": {
+        "title": "Multi-Timeframe + Dashboard",
+        "points": [
+          "Run all logic on a selected higher timeframe or the chart timeframe",
+          "Built-in dashboard showing trend bias, internal bias, zone position, and OB/FVG counts"
+        ]
+      }
+    },
+    "audience": "SMC and ICT traders, scalpers, swing traders, and anyone seeking institutional-level clarity without manual chart marking.",
+    "disclaimer": "This indicator is for analysis assistance only and does not constitute financial advice. Trading involves risk."
+    }, "wave": {
+    "title": "CyberPips Wave & Momentum PRO",
+    "subtitle": "Advanced WaveTrend & Momentum Analysis",
+    "description": "CyberPips Wave & Momentum PRO is a professional oscillator designed to analyze market momentum, reversals, and internal strength. It combines an advanced WaveTrend system with momentum and divergence analysis to help traders identify high-probability turning points and momentum shifts.",
+    "features_title": "Key Features",
+    "features": {
+      "wavetrend": {
+        "title": "WaveTrend Oscillator",
+        "points": [
+          "Dual WaveTrend lines (WT1 & WT2)",
+          "Overbought and Oversold zones with adjustable levels",
+          "Clear momentum wave crossings for reversal detection"
+        ]
+      },
+      "signals": {
+        "title": "Buy & Sell Signals",
+        "points": [
+          "BUY signals from oversold WaveTrend crossovers",
+          "SELL signals from overbought WaveTrend crossovers",
+          "Optional continuation and counter-trend signals"
+        ]
+      },
+      "divergence": {
+        "title": "Divergence Detection",
+        "points": [
+          "Regular Bullish and Bearish Divergence",
+          "Hidden Bullish and Bearish Divergence",
+          "Optional divergence labels on the oscillator"
+        ]
+      },
+      "momentum": {
+        "title": "Advanced Momentum System",
+        "points": [
+          "Momentum strength calculation using adaptive volatility",
+          "Detection of growing or weakening momentum",
+          "Clear momentum direction above and below zero"
+        ]
+      },
+      "visuals": {
+        "title": "Visual Clarity",
+        "points": [
+          "Wave fill for better trend visualization",
+          "Optional histogram and color bars",
+          "Clean and customizable visual design"
+        ]
+      }
+    },
+    "audience": "Momentum traders, scalpers, swing traders, and traders who rely on divergence and reversal-based strategies.",
+    "disclaimer": "This indicator is for analytical purposes only and does not constitute financial advice. Trading involves risk."
+  },
+  "signals": {
+     "title": "CyberPips Trand & Signals PLUS",
+    "subtitle": "Trend Detection & Precision Entry Signals",
+    "description": "CyberPips Trand & Signals PLUS is a professional trend-following indicator designed to identify market direction, momentum shifts, and high-quality entry signals. It combines adaptive ATR-based trend logic with smart Buy, Sell, and Strong signals, enhanced by a multi-layer EMA Cloud system.",
+    "features_title": "Key Features",
+    "features": {
+      "trend_detection": {
+        "title": "Adaptive Trend Detection",
+        "points": [
+          "ATR-based dynamic trend calculation",
+          "Configurable sensitivity using Trend Period and ATR Multiplier",
+          "Supports multiple signal modes for different trading styles"
+        ]
+      },
+      "signals": {
+        "title": "Buy, Sell & Strong Signals",
+        "points": [
+          "Clear BUY and SELL signals aligned with trend direction",
+          "STRONG signals near extreme price zones",
+          "Signal filtering to avoid repetition and false entries"
+        ]
+      },
+      "visual_signals": {
+        "title": "Flexible Signal Display",
+        "points": [
+          "Labels or arrows for signal visualization",
+          "Option to display Buy/Sell only, Strong only, or all signals",
+          "Optional candle coloring based on trend direction"
+        ]
+      },
+      "ema_cloud": {
+        "title": "Multi-Layer EMA Cloud",
+        "points": [
+          "Up to five EMA Clouds with customizable lengths",
+          "Visual trend strength and momentum confirmation",
+          "Optional EMA lines with leading offset"
+        ]
+      },
+      "usability": {
+        "title": "Trading Versatility",
+        "points": [
+          "Suitable for scalping, intraday, and swing trading",
+          "Works on all markets and timeframes",
+          "Clean and customizable chart appearance"
+        ]
+      }
+    },
+    "audience": "Trend traders, scalpers, and swing traders seeking clear direction and precise entry signals.",
+    "disclaimer": "This indicator is for analytical purposes only and does not constitute financial advice. Trading involves risk."
+  }
+  },"cookies": {
+  "title": "Cookies Policy",
+  "intro": "At CyberPips, we use cookies and similar technologies to ensure our website operates efficiently, securely, and delivers the best possible user experience. This Cookies Policy explains what cookies are, why we use them, and how you can control their use. By continuing to browse or use our website, you acknowledge and agree to the use of cookies as described in this policy.",
+  "what": {
+    "title": "What Are Cookies?",
+    "text": "Cookies are small data files stored on your device (computer, tablet, or mobile phone) when you visit a website. They help websites remember information about your visit, such as preferences or login status, to improve functionality and performance. Cookies do not usually identify you personally; however, in some cases, cookie-related data may be linked to personal information processed by CyberPips in accordance with our Privacy Policy. CyberPips does not store sensitive data such as passwords, payment details, or private credentials inside cookies."
+  },
+  "why": {
+    "title": "How CyberPips Uses Cookies",
+    "one": "To ensure the website functions correctly, including secure access, session management, and protection against fraudulent activity",
+    "two": "To improve performance and stability by analyzing website usage and optimizing content",
+    "three": "To remember user preferences, enhance security, prevent abuse, and support marketing and advertising efforts where applicable"
+  },
+  "types": {
+    "title": "Types of Cookies Used",
+    "essential": {
+      "title": "Essential Cookies",
+      "text": "These cookies are required for the website to operate properly. They enable core functions such as secure access, session management, and protection against fraudulent activity. Without these cookies, certain services cannot be provided."
+    },
+    "preference": {
+      "title": "Preference Cookies",
+      "text": "These cookies store your selected preferences, such as language or interface settings, so you do not need to reconfigure them on every visit."
+    },
+    "analytics": {
+      "title": "Analytics & Performance Cookies",
+      "text": "These cookies help us understand how visitors interact with the website by collecting anonymous or aggregated data. This information allows us to improve site performance, usability, and content."
+    },
+    "advertising": {
+      "title": "Advertising & Targeting Cookies",
+      "text": "These cookies may be used to display advertisements that are more relevant to your interests. They track browsing behavior across websites and may be placed by third-party advertising partners with our permission."
+    },
+    "social": {
+      "title": "Social Media Cookies",
+      "text": "When you interact with social features such as sharing content, third-party platforms may place cookies on your device to enable those features and track engagement."
+    }
+  },
+  "management": {
+    "title": "Managing Your Cookie Preferences",
+    "text": "You are free to control or disable cookies at any time through your browser settings and may also delete cookies that are already stored on your device. Please note that disabling certain cookies may affect website functionality and limit access to some features.",
+    "browsers": [
+      "Chrome",
+      "Firefox",
+      "Safari",
+      "Microsoft Edge",
+      "Any other browser you use"
+    ]
+  },
+  "thirdParty": {
+    "title": "Third-Party Cookies",
+    "text": "Some cookies used on the CyberPips website are placed by trusted third-party services such as analytics or advertising providers. These third parties are responsible for their own cookies and privacy practices."
+  },
+  "updates": {
+    "title": "Updates to This Cookies Policy",
+    "text": "CyberPips may update this Cookies Policy from time to time to reflect changes in technology, legal requirements, or business practices. Any updates will be posted on this page with a revised \"Last Updated\" date."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "email": "support@cyberpips.com",
+    "company": "CyberPips"
+  },
+  "updated": "Last updated: 2025"
+},
+
+  "disclaimer": {
+  "title": "Educational & Risk Disclaimer",
+  "intro": "The content, tools, indicators, and materials provided by CyberPips are offered strictly for educational and informational purposes. Nothing on this platform should be interpreted as financial, investment, trading, legal, or tax advice. By using CyberPips, you acknowledge that trading and investing involve significant risk and that losses, including the loss of all invested capital, are possible.",
+  "noAdvice": {
+    "title": "No Financial Advice",
+    "text": "CyberPips does not provide financial, investment, or trading advice. All examples, explanations, charts, indicators, signals, strategies, market commentary, or educational materials are general in nature and are not tailored to any individual. Any decision to buy, sell, hold, or trade financial instruments is made solely at your own discretion and risk."
+  },
+  "risk": {
+    "title": "Trading & Investment Risk",
+    "text": "Trading and investing are inherently speculative activities. A substantial number of traders and investors incur financial losses in markets such as forex, cryptocurrencies, equities, commodities, and derivatives. Past performance, whether actual, simulated, or backtested, is not a reliable indicator of future results."
+  },
+  "responsibility": {
+    "title": "User Responsibility & Liability",
+    "text": "You are solely responsible for your trading and investment decisions, including how you interpret and use alerts, signals, indicators, automated tools, or integrations. CyberPips does not execute trades, does not monitor brokerage accounts, and assumes no liability for losses incurred as a result of using this platform or its features."
+  },
+  "updated": "Last updated: 2025"
+},
+
+  "privacy": {
+  "title": "Privacy Policy",
+  "intro": "At CyberPips, protecting your privacy is a core principle. This Privacy Policy explains how we collect, handle, use, process, and safeguard information that can identify you directly or indirectly (\"Personal Information\"), and how you may exercise your rights under applicable privacy and data protection laws in the United States, Canada, the European Union, and other relevant jurisdictions.",
+  "collect": {
+    "title": "Information We Collect",
+    "one": "Personal identification data such as name, email address, billing address, phone number, and TradingView username",
+    "two": "Usage, analytics, and interaction data related to platform performance and security",
+    "three": "Account, subscription, billing, and customer support–related information"
+  },
+  "use": {
+    "title": "How We Use Your Data",
+    "text": "CyberPips uses Personal Information to deliver and maintain products and services, manage subscriptions and billing, communicate service-related updates, respond to support requests, issue confirmations and invoices, improve platform functionality and performance, send marketing communications with opt-out options, ensure system security, prevent fraud or misuse, comply with legal and regulatory obligations, and protect legal rights and interests."
+  },
+  "security": {
+    "title": "Data Security",
+    "text": "CyberPips applies appropriate technical and organizational measures to protect Personal Information against unauthorized access, disclosure, alteration, misuse, or loss. While we take reasonable steps to secure data, no method of transmission or storage is completely secure."
+  },
+  "rights": {
+    "title": "Your Rights",
+    "text": "Subject to applicable law, you may have the right to understand what Personal Information we collect and process, access your data, request corrections or updates, request deletion of certain data, restrict or object to processing, withdraw consent where applicable, opt out of marketing communications, request data portability, and exercise your rights without discrimination."
+  },
+  "updated": "Last updated: 2025"
+},"counter":{
+  "opening":"Grand Opening Sale"
+}, "support_system": {
+    "title": "CyberPips Support",
+    "subtitle": "We’re here to help you anytime. Reach out through our official channels below.",
+    "email": {
+      "title": "Email Support",
+      "desc": "For technical issues and inquiries"
+    },
+    "telegram": {
+      "title": "Telegram Support",
+      "desc": "Fast response & real-time assistance"
+    },
+    "footer": "Our support team operates 24/7 to ensure the best experience for you."
+  }, "invoicesToast": {
+    "title": "No invoices found",
+    "text": "You don’t have any invoices yet. Subscribe now to get your first invoice.",
+    "primary": "Go to Pricing",
+    "secondary": "Maybe later"
+  }
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,23 @@
+.loader {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: var(--primary-color);
+}
+
+.line {
+  width: 120px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+  animation: pulse 1.2s infinite;
+}
+.sentacs{
+    color: var(--cp-new-white);
+}
+@keyframes pulse {
+  0% { opacity: .3; }
+  50% { opacity: 1; }
+  100% { opacity: .3; }
+}

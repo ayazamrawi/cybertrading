@@ -1,0 +1,254 @@
+/* ============================================================================== */
+/*                                   Plans                                        */
+/* ============================================================================== */
+
+
+
+.plansHeading h2 {
+  background-image: linear-gradient(90deg, var(--cp-accent) 0%, var(--cp-verna) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: 700;
+  font-size: clamp(2rem, 5vw, 4rem); /* Responsive: min 2rem, max 4rem */
+}
+
+@media (max-width: 768px) {
+  .plansHeading h2 {
+    font-size: 2.5rem; /* 40px on tablet */
+  }
+}
+
+@media (max-width: 480px) {
+  .plansHeading h2 {
+    font-size: 2rem; /* 32px on mobile */
+  }
+}
+
+.plansHeading p {
+  color: var(--text-color);
+  font-size: 24px;
+  font-family: var(--font-family);
+  line-height: 1.5;
+}
+
+.plan {
+  border: 1px solid var(--cp-border);
+  border-radius: 14px;
+  transition: all .25s ease;
+  position: relative;
+}
+
+.plan:hover {
+  border-color: var(--cp-accent);
+  box-shadow: 0 8px 24px var(--cp-accent);
+  transform: scale(1.04);
+}
+
+.plan h4 {
+  margin: 30px 0px;
+  color: var(--text-color); 
+  font-weight: 600;
+  font-family: var(--font-family);
+  text-align: center;
+}
+
+.basicOffer {
+  text-align: center;
+  color: var(--text-color);
+  position: relative;
+}
+
+.basicOffer h3 {
+  font-size: 2.375rem;
+  font-weight: 600;
+}
+
+.basicOffer p {
+  color: var(--text-color);
+}
+
+.premium::before {
+  font-family: "Font Awesome 7 Free";
+  font-weight: 900;
+  content: "\f005"; /* Star icon */
+  font-size: 1.5rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 12px;
+  background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+  box-shadow: 0 8px 24px rgba(0,229,255,.25);
+  color: #0D1319;
+  z-index: 1;
+}
+
+.enterprise::before {
+  font-family: "Font Awesome 7 Free";
+  font-weight: 900;
+  content: "\f0b1"; /* Briefcase icon */
+  font-size: 1.5rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 12px;
+  background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+  box-shadow: 0 8px 24px rgba(0,229,255,.25);
+  color: #0D1319;
+  z-index: 1;
+}
+
+.popularBadge {
+  position: absolute;
+  top: -18px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 6px 20px;
+  border-radius: 50px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #000;
+  letter-spacing: 0.5px;
+  background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+  box-shadow: 0 0 20px rgba(0, 229, 255, 0.4);
+}
+/* =========================
+   Responsive Enhancements
+   ========================= */
+
+/* Tablets & small laptops */
+@media (max-width: 992px) {
+  .pricingWrapper {
+    padding: 50px 16px;
+  }
+
+  .toggleBtn {
+    padding: 10px 24px;
+    font-size: 0.95rem;
+  }
+}
+
+.accepted {
+  color: var(--cp-accepted);
+}
+
+.rejected {
+  color: var(--cp-rejected);
+}
+
+.lightAccepted {
+  color: var(--text-color);
+  font-size: 1.2rem;
+  padding-left: 5px;
+}
+
+.darkRejected {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1.2rem;
+  padding-left: 5px;
+}
+
+
+
+.orderPayment {
+  min-height: 56px;
+  padding: 0 22px;
+  width: 80%;
+  border-radius: 12px;
+  background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+  color: #0A0F15;
+  border: 1px solid transparent;
+  box-shadow: 0 0 28px var(--cp-neon);
+  transition: all .25s ease;
+  font-weight: 700;
+  display: block;
+  margin: 20px auto;
+}
+
+.orderPayment:hover {
+  box-shadow: 0 0 84px rgba(0,229,255,.14);
+  transform: scale(1.02);
+}
+
+.oldPrice {
+  text-decoration: line-through;
+  text-decoration-thickness: 3px; /* جرب 2px أو 3px حسب اللي تحبه */
+  text-decoration-color: var(--cp-accent); /* optional */
+  opacity: 0.7;
+  font-size: 1.4rem;
+  margin-right: 10px;
+}
+
+.salePrice {
+  color: var(--cp-new-white);
+  font-size: 2.2rem;
+  font-weight: 800;
+}
+/* Sale Badge - positioned at top right corner */
+.saleBadge {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 700;
+  z-index: 2;
+  animation: pulse 5s ease-in-out infinite;
+}
+
+.saleBadge i {
+  font-size: 0.85rem;
+}
+
+/* Pulse animation for sale badge */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 4px 16px var(--cp-accent);
+  }
+  50% {
+    transform: scale(1.05);
+    box-shadow: 0 6px 24px var(--cp-verna);
+  }
+}
+
+
+
+/* Responsive adjustments for sale badge */
+@media (max-width: 768px) {
+  .saleBadge {
+    top: 0.8rem;
+    right: 0.8rem;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+  }
+  
+  .saleBadge i {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .saleBadge {
+    top: 0.7rem;
+    right: 0.7rem;
+    padding: 5px 10px;
+    font-size: 0.75rem;
+  }
+  
+  .saleBadge i {
+    font-size: 0.7rem;
+  }
+}

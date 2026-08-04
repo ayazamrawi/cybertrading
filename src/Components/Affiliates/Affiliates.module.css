@@ -1,0 +1,211 @@
+/* ------------------ MAIN HEADER ------------------ */
+.mainHead {
+    height: 100svh;
+    width: 100%;
+    background-color: var(--primary-color);
+}
+
+.layer {
+    width: 100%;
+    height: 100%;
+    background-image: url('../../Assets/Images/left_cyan_cobalt_glow.svg');
+    background-position: center;
+    background-size: cover;
+}
+
+.contentBtn h2 {
+    color: var(--cp-new-white);
+    font-size: clamp(2rem, 5vw, 1rem);
+}
+
+.heading {
+    color: var(--cp-new-white) !important;
+}
+
+.headContent h2 {
+    color: var(--cp-new-white);
+    font-weight: 600;
+    font-size: clamp(2.5rem, 6vw, 3.5rem);
+}
+
+.headContent h2 span {
+    background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 600;
+}
+
+.headContent h3 {
+    color: var(--cp-new-white);
+    font-size: clamp(1rem, 2vw, 0.8rem);
+}
+
+.contentBtn button {
+    padding: 8px 20px;
+    border-radius: 50px;
+    background-color: var(--cp-new-white);
+    color: black;
+    transition: all .3s ease;
+    margin: 20px 0;
+    font-weight: 600;
+    border: none;
+    font-size: 14px;
+
+}
+
+.contentBtn button:hover {
+    transform: scale(1.1);
+}
+
+/* ------------------ STARTED AFFILIATE ------------------ */
+.cardAffiliate {
+    min-height: 150px;
+    border: 1px solid var(--cp-border);
+    border-radius: 14px;
+    padding: 20px;
+}
+
+.cardTextAffiliate h3 {
+    color: var(--cp-new-white);
+    font-size: clamp(1.3rem, 2.5vw, 1.8rem);
+}
+
+.cardTextAffiliate p {
+    color: var(--cp-new-white);
+    font-size: clamp(0.9rem, 1.5vw, 1rem);
+}
+
+/* Icons styling */
+.cardAffiliate i {
+    color: var(--cp-accent);
+    font-size: clamp(30px, 5vw, 40px);
+}
+
+/* ------------------ PROGRAM BENEFITS ------------------ */
+.rightLayer {
+    background-image: url('../../Assets/Images/right_cobalt_cyan_glow_2.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: var(--primary-color);
+}
+
+.programBenefits h2 {
+    text-align: center;
+    padding: 40px 0;
+    color: var(--cp-new-white);
+    font-size: clamp(2rem, 5vw, 4rem);
+}
+
+/* CARD */
+.card {
+    padding: 40px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #fff;
+    backdrop-filter: blur(20px);
+    position: relative;
+    overflow: hidden;
+}
+
+.card::before {
+    content: "";
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(
+        circle,
+        rgba(0, 200, 255, 0.4),
+        rgba(0, 100, 255, 0.1),
+        transparent
+    );
+    filter: blur(40px);
+}
+
+.card h3 {
+    font-size: clamp(1.3rem, 2.5vw, 1.8rem);
+}
+
+.card p {
+    font-size: clamp(0.9rem, 1.5vw, 1rem);
+}
+
+/* ------------------ MEDIA QUERIES ------------------ */
+@media (max-width: 992px) {
+    .headContent h2 {
+        font-size: 3.5rem;
+    }
+    
+    .headContent h3 {
+        font-size: 1.1rem;
+    }
+    
+    .cardTextAffiliate h3 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .mainHead {
+        background-attachment: scroll;
+    }
+
+    .headContent h2 {
+        font-size: 2.5rem;
+    }
+    
+    .headContent h3 {
+        font-size: 1rem;
+    }
+
+    .cardAffiliate {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .headContent h2 {
+        font-size: 2rem;
+    }
+    
+    .headContent h3 {
+        font-size: 0.9rem;
+    }
+
+    .contentBtn button {
+        padding: 8px 20px;
+        font-size: 0.9rem;
+    }
+
+    .cardTextAffiliate h3 {
+        font-size: 1.3rem;
+    }
+    
+    .cardTextAffiliate p {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 360px) {
+    .headContent h2 {
+        font-size: 1.7rem;
+    }
+    
+    .headContent h3 {
+        font-size: 0.8rem;
+    }
+
+    .contentBtn button {
+        padding: 6px 18px;
+        font-size: 0.8rem;
+    }
+
+    .cardTextAffiliate h3 {
+        font-size: 1.1rem;
+    }
+}

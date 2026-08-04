@@ -1,0 +1,119 @@
+/* this styles for Pages :--
+    SubscriptionSuccess.jsx
+    SubscriptionFailed.jsx
+    ForgotPassword.jsx
+    NewPassword.jsx
+    RegisterSuccess.jsx
+    VerifyAccount.jsx 
+*/
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--cp-bg);
+  font-family: var(--font-family);
+}
+
+.card {
+  background: var(--cp-panel);
+  border: 1px solid var(--cp-border);
+  border-radius: 20px;
+  padding: 40px 32px;
+  width: 100%;
+  max-width: 420px;
+  text-align: center;
+  box-shadow: 0 0 40px rgba(0, 229, 255, 0.15);
+}
+
+.title {
+  color: var(--cp-new-white);
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+.text {
+  color: var(--cp-muted);
+  font-size: 0.95rem;
+  margin-bottom: 25px;
+}
+
+.input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--cp-border);
+  background: transparent;
+  color: var(--text-color);
+  margin-bottom: 15px;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--cp-accent);
+}
+
+.button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 14px;
+  border: none;
+  background: linear-gradient(
+    90deg,
+    var(--cp-accent),
+    var(--cp-verna)
+  );
+  color: #0d1319;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+}
+
+.secondaryBtn {
+  margin-top: 12px;
+  background: transparent;
+  color: var(--hover-color);
+  border: 1px solid var(--cp-border);
+}
+
+/* ========= Animations ========= */
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(30px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.card {
+  animation: fadeSlide 0.7s ease forwards;
+}
+
+/* Glowing focus input */
+.input:focus {
+  box-shadow: 0 0 0 2px rgba(0,229,255,.25);
+}
+
+/* Disabled resend button */
+.disabledBtn {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background: transparent;
+  color: var(--cp-muted);
+  border: 1px solid var(--cp-border);
+}
+
+/* Countdown text */
+.countdown {
+  margin-top: 12px;
+  font-size: 0.9rem;
+  color: var(--cp-muted);
+}

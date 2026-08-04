@@ -1,0 +1,83 @@
+/* ------------------ MAIN HEADER ------------------ */
+.main {
+    background-image: url('../../Assets/Images/left_cyan_cobalt_glow.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: var(--primary-color);
+}
+
+.mainHead {
+    height: 100svh;
+    width: 100%;
+    background-color: transparent;
+}
+
+.mainHead h1 {
+    color: var(--cp-new-white);
+    font-weight: 600;
+    font-size: clamp(2rem, 5vw, 3rem);
+}
+
+.heading {
+    color: var(--cp-new-white);
+}
+
+.headContent h2 {
+    color: var(--cp-new-white);
+    font-weight: 600;
+    font-size: clamp(1rem, 4vw, 2rem);
+}
+
+.headContent h2 span {
+    background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 600;
+}
+
+/* =======  BLOG CONTENT  ======= */
+section {
+    color: var(--cp-new-white);
+}
+
+.blogCyber {
+    background-image: url('../../Assets/Images/right_cobalt_cyan_glow_2.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: var(--primary-color);
+    min-height: 1500px;
+    padding: 80px 0;
+}
+
+.blogCyber h2 {
+    font-weight: 600;
+    font-size: clamp(1.8rem, 3vw, 2.25rem);
+    background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: 14px 0px;
+    max-width: 90%;
+}
+
+.blogCyber p {
+    max-width: 80%;
+    font-size: clamp(1.1rem, 2vw, 1.5rem);
+    font-weight: 400;
+    line-height: 1.8;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .blogCyber {
+        padding: 40px 0;
+    }
+    
+    .blogCyber h2,
+    .blogCyber p {
+        max-width: 100%;
+    }
+}

@@ -1,0 +1,26 @@
+.earthScene {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Laptop */
+@media (max-width: 1200px) {
+  .earthScene {
+    height: 80vh;
+  }
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .earthScene {
+    height: 60vh;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .earthScene {
+    height: 45vh;
+  }
+}

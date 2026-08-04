@@ -1,0 +1,114 @@
+/* ============================================================================== */
+/*                                  Feedback                                      */
+/* ============================================================================== */
+
+
+.feedbackHeading h2 {
+  background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: 600;
+  font-size: 42px;
+}
+
+.arrowButton {
+  padding: 5px 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 1rem;
+  border: none;
+  color: var(--text-color);
+  transition: all 0.3s ease-in-out;
+  background-color: transparent;
+  box-shadow: 0 12px 40px rgba(0,0,0,.55), 0 0 30px var(--cp-neon);
+  margin: 10px;
+}
+
+.arrowButton:hover {
+  background-color: transparent;
+  transform: scale(1.1);
+  background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+}
+
+.dragSlider {
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  cursor: grab;
+  padding-bottom: 20px;
+  white-space: wrap;
+}
+
+.dragSlider::-webkit-scrollbar {
+  display: none;
+}
+
+.dragSlider {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.testimonialCard {
+  background: var(--cp-bg);
+  min-width: 300px; 
+  max-width: 300px; 
+  border-radius: 20px;
+  border: 1px solid var(--cp-border);
+  box-shadow: 0 10px 30px rgba(0,0,0,.35), 0 0 28px rgba(0,229,255,.12) !important;
+}
+
+.testimonialCard p {
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+/* ============================================================================== */
+/*                              Media Queries                                     */
+/* ============================================================================== */
+
+@media screen and (min-width: 91px) and (max-width: 1400px) {
+  .enterprise::before,
+  .premium::before {
+    width: 2.5rem;
+    height: 2.5rem;
+    left: 0.1rem;
+    padding-left: 0;
+    font-size: 1rem;
+    top: 1.8rem;
+  }
+  
+  .basic::before {
+    width: 2.5rem;
+    height: 2.5rem;
+    left: 1.9rem;
+    padding-left: 0;
+    font-size: 1rem;
+    top: 1.8rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .testimonialCard {
+    min-width: 85%;
+  }
+  
+  .testimonialCard h5,
+  .testimonialCard p {
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+  
+  .faqContainer {
+    width: 100%;
+  }
+  
+  .questionTitle h3 {
+    font-weight: 600;
+    font-size: 1rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+}

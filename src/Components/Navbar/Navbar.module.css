@@ -1,0 +1,235 @@
+/* Navbar Base Styles */
+.navbar {
+    position: sticky !important;
+    height: 99px;
+    z-index: 1050;
+    top: 0;
+    transition: all 0.3s ease;
+    background-color: transparent;
+}
+
+
+.logoSpan{
+    background-image: linear-gradient(
+    90deg, 
+    var(--cp-accent) 0%,  
+    var(--cp-verna) 100% 
+  ); 
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold; 
+}
+.forceLtr {
+  direction: ltr;
+}
+.navbar.scrolled {
+    background-color: var(--primary-color) !important;
+    opacity: 1;
+    box-shadow: 0 20px 60px rgba(0, 229, 255, .15);
+}
+
+/* Navbar Toggler */
+.navbarToggler {
+    border: none !important;
+    outline: none !important;
+    padding: 0 !important;
+}
+
+.navbarToggler:focus,
+.navbarToggler:active,
+.navbarToggler:focus-visible {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.navbarToggler i {
+    color: white;
+    font-size: 1.5rem;
+}
+
+/* Nav Links */
+.navLink{
+    color: var(--text-color);
+    transition: color 0.3s ease-in-out,opacity 0.3s ease-in-out;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.navItem{
+    position: relative;
+}
+
+.navLink:hover {
+    color: var(--hover-color);
+}
+
+/* Dropdown Menu */
+.navItem.dropdown:hover .dropdownMenu {
+    display: block;
+}
+
+.dropdownMenu {
+    background-color: var(--primary-color);
+    border: 1px solid var(--cp-border) !important;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, .55), 0 0 30px var(--cp-neon) !important;
+    max-width: 160px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15px;
+    padding: 4px 15px;
+    top: 100%;
+    display: none;
+    list-style: none;
+}
+
+.dropdownMenu::before {
+    content: '';
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 20px solid var(--primary-color);
+}
+
+.dropdownItem {
+    letter-spacing: .09em;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--text-color);
+    transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    position: relative;
+    text-transform: uppercase;
+    white-space: normal;
+    line-height: 1.7;
+    display: block;
+    text-decoration: none;
+}
+
+.dropdownItem:hover {
+    color: var(--hover-color);
+    background-color: transparent;
+}
+
+/* User Dropdown Specific Styles */
+.userDropdown .dropdownMenu {
+    display: none;
+}
+
+.userDropdown:hover .dropdownMenu,
+.userDropdownMenu {
+    display: block !important;
+}
+
+.userButton {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    cursor: pointer;
+}
+
+.dropdownArrow {
+    font-size: 0.7em;
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+.userDropdown:hover .dropdownArrow {
+    transform: rotate(180deg);
+}
+
+/* ============================================
+              Mobile Sidenav
+============================================ */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    left: 0;
+    background-color: var(--primary-color);
+    overflow-x: hidden;
+    transition: width 0.3s ease;
+    padding-top: 40px;
+}
+
+.sidenav a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  transition: 0.2s;
+  text-align: center;
+  font-weight: 600;
+  font-size: 4vh;
+  line-height: 12vh;
+}
+
+.sidenav.open {
+    width: 100%;
+}
+
+.ulSidenav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidenav .submenu {
+  display: none;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.sidenav .menuItem:hover .submenu {
+  display: block;
+}
+
+/* Submenu Styles */
+.submenu li a:hover {
+    color: var(--hover-color);
+}
+.submenu{
+    padding-right: 0;
+}
+.sidenav .closebtn {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 2rem;
+}
+
+/* Close button */
+.closeBtn {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    z-index: 2001;
+}
+
+/* ============================================
+                Responsive
+============================================ */
+@media (max-width: 992px) {
+    .navbar {
+        height: auto;
+        padding: 15px 0;
+    }
+    
+    .navbar.scrolled {
+        padding: 10px 0;
+    }
+}
+
+@media (min-width: 993px) {
+    .sidenav {
+        display: none;
+    }
+}

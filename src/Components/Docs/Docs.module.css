@@ -1,0 +1,143 @@
+/* ------------------ MAIN HEADER ------------------ */
+main {
+    background-color: #03030B;
+}
+
+.mainHead {
+    background-image: url('../../Assets/Images/new-bg-world.png');
+    height: 120svh;
+    width: 100%;
+    background-color: transparent;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.mainHead h1 {
+    color: var(--cp-new-white);
+    font-weight: 600;
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+}
+
+.heading {
+    color: var(--cp-new-white);
+}
+
+.headContent h2 {
+    color: var(--cp-new-white);
+    font-weight: 600;
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    max-width: 50%;
+    word-wrap: break-word;
+}
+
+.headContent h2 span {
+    background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+/* ------------------ SECTIONS ------------------ */
+section {
+    color: var(--cp-new-white);
+}
+
+body {
+    background-color: #03030B;
+}
+
+.docsCyber {
+    background-color: #03030B;
+    padding: 80px 0;
+}
+
+.docsCyber h2 {
+    font-weight: 600;
+    font-size: clamp(1.8rem, 3vw, 2.25rem);
+    background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: 14px 0;
+    max-width: 90%;
+}
+
+.docsCyber p {
+    max-width: 80%;
+    font-size: clamp(1.1rem, 2vw, 1.5rem);
+    font-weight: 400;
+    line-height: 1.8;
+}
+
+/* ==================================================
+              RESPONSIVE DESIGN
+================================================== */
+/* Tablets */
+@media (max-width: 992px) {
+    .mainHead {
+        height: 100svh;
+        background-position: 1% center;
+        background-size: 180%;
+    }
+    
+    .mainHead h1 {
+        font-size: 2.5rem;
+    }
+    
+    .headContent h2 {
+        font-size: 1.5rem;
+        max-width: 80%;
+    }
+    
+    .docsCyber h2 {
+        font-size: 1.8rem;
+    }
+    
+    .docsCyber p {
+        font-size: 1.2rem;
+        max-width: 100%;
+    }
+}
+
+/* Mobiles */
+@media (max-width: 576px) {
+    .mainHead {
+        height: 100svh;
+        background-position: 150% right;
+        background-size: 180%;
+    }
+    
+    .headContent {
+        padding-left: 0 !important;
+        text-align: center;
+    }
+    
+    .mainHead h1 {
+        font-size: 1.8rem;
+        background: linear-gradient(90deg, var(--cp-accent), var(--cp-verna));
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+    
+    .headContent h2 {
+        font-size: 1rem;
+        max-width: 100%;
+    }
+    
+    .headContent h2 span {
+        color: var(--cp-new-white);
+    }
+    
+    .docsCyber h2 {
+        font-size: 1.4rem;
+    }
+    
+    .docsCyber p {
+        font-size: 1rem;
+        max-width: 100%;
+    }
+    
+    .docsCyber .m-auto {
+        width: 100% !important;
+    }
+}

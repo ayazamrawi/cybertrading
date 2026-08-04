@@ -1,0 +1,16 @@
+/* TradingView icon alignment */
+.inputgrouptext i {
+  color: var(--cp-accent);
+}
+
+/* Mobile optimization */
+@media (max-width: 576px) {
+  .card {
+    padding: 30px 22px;
+    border-radius: 16px;
+  }
+
+  .title {
+    font-size: 1.4rem;
+  }
+}

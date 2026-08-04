@@ -1,0 +1,522 @@
+:root{
+      --primary-color: rgb(15,21,28);
+      --secondary-color: #E9EFFA;
+      --hover-color: #00c2de;
+      --cp-border: rgba(255,255,255,.12);
+      --cp-neon: rgba(0,229,225,.35);
+      --btn-grad: linear-gradient(90deg,#00e5ff,#a855f7);
+      --cp-accent: #00e5ff;
+      --cp-verna: #a855f7;
+      --glass: rgba(255,255,255,0.02);
+    }
+/* Container */
+.containerMax {
+    max-width: 1100px;
+    margin: auto;
+    padding: 18px;
+}
+.MainCard{
+    margin: 70px auto;
+
+}
+/* Page Card */
+.pageCard {
+    background: var(--glass);
+    border: 1px solid var(--cp-border);
+    border-radius: 14px;
+    box-shadow: 0 8px 30px var(--cp-neon);
+    padding: 22px;
+    overflow: hidden;
+    transition: transform .35s ease, box-shadow .35s ease;
+}
+
+.pageCard:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 18px 40px rgba(0, 229, 225, .25);
+}
+
+/* Page Title */
+.pageTitle {
+    font-size: clamp(20px, 4vw, 26px);
+    font-weight: 700;
+    margin: 0 0 14px 0;
+    background: var(--btn-grad);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.2px;
+}
+
+.muted {
+    color: rgba(233, 239, 250, 0.7);
+}
+
+/* Buttons */
+.btnHero {
+    display: inline-block;
+    padding: .6rem 1rem;
+    border-radius: 10px;
+    border: none;
+    font-weight: 700;
+    background: var(--btn-grad);
+    color: #0f151c;
+    cursor: pointer;
+    transition: transform .18s ease, box-shadow .18s ease;
+    box-shadow: 0 6px 18px rgba(168, 85, 247, 0.12);
+    margin-top: 10px;
+}
+
+.btnHero:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 36px rgba(0, 194, 222, 0.12);
+}
+
+.btnOutlineSoft {
+    background: transparent;
+    border: 1px solid var(--cp-border);
+    color: var(--secondary-color);
+    padding: .6rem 1rem;
+    border-radius: 8px;
+    transition: transform .18s ease, box-shadow .18s ease;
+    box-shadow: 0 6px 18px rgba(168, 85, 247, 0.12);
+}
+.btnOutlineSoft:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 36px rgba(0, 194, 222, 0.12);
+}
+/* Sidebar Menu */
+.menuItem {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px;
+    border-radius: 10px;
+    color: var(--secondary-color);
+    cursor: pointer;
+    transition: all .18s ease;
+}
+
+.menuItem:hover {
+    background: linear-gradient(90deg, rgba(0, 229, 225, 0.06), rgba(168, 85, 247, 0.03));
+    transform: translateX(6px);
+}
+
+/* Grid Cards */
+.gridCards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+}
+
+.infoCard {
+    padding: 16px;
+    border-radius: 12px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.01), rgba(255, 255, 255, 0.00));
+    border: 1px solid var(--cp-border);
+}
+
+.infoCard .value {
+    font-size: clamp(18px, 3vw, 20px);
+    font-weight: 700;
+}
+
+/* Tables */
+.tableDarkCustom {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableDarkCustom th,
+.tableDarkCustom td {
+    padding: 10px;
+    border-bottom: 1px dashed var(--cp-border);
+    color: var(--secondary-color);
+}
+
+/* Animations */
+.animFadeSlide {
+    animation: fadeSlideUp .6s cubic-bezier(.2, .9, .2, 1) both;
+}
+
+.animScale {
+    animation: scaleIn .5s cubic-bezier(.2, .9, .2, 1) both;
+}
+
+.animSlideRight {
+    animation: slideRight .6s cubic-bezier(.2, .9, .2, 1) both;
+}
+
+@keyframes fadeSlideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(18px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes scaleIn {
+    0% {
+        opacity: 0;
+        transform: scale(.92);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes slideRight {
+    0% {
+        opacity: 0;
+        transform: translateX(-26px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Glow hover */
+.glowHover {
+    transition: box-shadow .25s ease, transform .25s ease;
+}
+
+.glowHover:hover {
+    box-shadow: 0 10px 40px rgba(0, 194, 222, 0.12);
+    transform: translateY(-6px);
+}
+
+/* Accent underline */
+.accentUnderline {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.accentUnderline::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    width: 56px;
+    border-radius: 4px;
+    background: var(--btn-grad);
+}
+html[dir="rtl"] .accentUnderline::after {
+  right: 0;
+  bottom: 0;
+}
+/* Small utilities */
+.kpi {
+    font-size: clamp(12px, 2vw, 13px);
+    color: rgba(233, 239, 250, 0.8);
+}
+
+.rightMuted {
+    color: rgba(233, 239, 250, 0.6);
+    font-size: clamp(12px, 2vw, 13px);
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+    .gridCards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 575px) {
+    .containerMax {
+        padding: 12px;
+        overflow: auto;
+    }
+    .pageCard{
+        margin: 70px auto;
+
+    }
+    
+    .gridCards {
+        grid-template-columns: 1fr;
+    }
+    
+    .pageTitle {
+        font-size: 20px;
+    }
+}
+
+.inputSoft {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--cp-border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  color: var(--secondary-color);
+  outline: none;
+  width: 180px;
+  transition: all .2s ease;
+}
+
+.inputSoft::placeholder {
+  color: rgba(233, 239, 250, 0.5);
+}
+
+.inputSoft:focus {
+  border-color: var(--cp-accent);
+  box-shadow: 0 0 0 2px rgba(0, 229, 225, 0.15);
+}
+
+.inputSoft option{
+    color: black;
+}
+/* This is the scrolling box */
+.tableContainer {
+    max-height: 500px; 
+    overflow-y: auto;
+    overflow-x: auto; /* Adds horizontal scroll if table is wide */
+    position: relative;
+    border: 1px solid #333;
+    border-radius: 8px;
+}
+
+/* This makes the header stay at the top */
+.tableContainer table thead th {
+    position: sticky;
+    top: 0;
+    background-color: #181E25; /* Ensure this matches your dashboard background */
+    z-index: 10;
+    box-shadow: inset 0 -1px 0 #333; /* Visual border under header */
+    padding: 12px;
+}
+
+/* Scrollbar styling */
+.tableContainer::-webkit-scrollbar {
+    width: 8px;
+}
+.tableContainer::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 4px;
+}
+/* Wrapper */
+.infoRows {
+  margin-top: 14px;
+  display: grid;
+  gap: 12px;
+
+  /* ✅ responsive columns */
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  align-items: stretch;
+}
+
+/* Each row becomes a small card */
+.infoRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+
+  padding: 12px 14px;
+  border-radius: 12px;
+
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--cp-border);
+}
+
+/* Label */
+.infoRow span {
+  color: rgba(233, 239, 250, 0.7);
+  font-size: 13px;
+  min-width: 120px;
+}
+
+/* Value */
+.infoRow strong {
+  color: var(--cp-new-white);
+  font-size: 13px;
+  font-weight: 700;
+
+  text-align: right;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+/* For long links */
+.breakAll {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal !important;
+  text-align: right;
+}
+
+
+/* =========================
+   Payout Requests Styling
+   ========================= */
+
+.payoutCellTop {
+  vertical-align: top;
+}
+
+.payoutNameCell {
+  font-weight: 600;
+}
+
+.payoutMoneyCell {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.payoutDateCell {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  min-width: 150px;
+  white-space: normal;
+}
+
+.payoutActionBtn {
+  min-width: 84px;
+  font-weight: 600;
+}
+
+.payoutMethodBadge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  white-space: nowrap;
+}
+
+.payoutDetailsCell {
+  min-width: 260px;
+  max-width: 360px;
+  white-space: normal !important;
+}
+
+/* ✅ الإيميل: ممنوع anywhere هنا عشان ما يتكسر حرف حرف */
+.payoutEmailCell {
+  max-width: 220px;
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: break-word; /* يكسر عند الحاجة فقط */
+  line-height: 1.35;
+}
+
+/* نصوص عامة قابلة للكسر بشكل مقروء */
+.payoutWrapText {
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.35;
+}
+
+.payoutRawText {
+  font-size: 0.82rem;
+  line-height: 1.35;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* PayPal / USDT boxes */
+.payoutPillBox {
+  border-radius: 10px;
+  padding: 8px 10px;
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.payoutPillPaypal {
+  background: rgba(59, 130, 246, 0.08);
+  border: 1px solid rgba(59, 130, 246, 0.18);
+}
+
+.payoutPillUsdt {
+  background: rgba(16, 185, 129, 0.08);
+  border: 1px solid rgba(16, 185, 129, 0.18);
+}
+
+/* Bank details card (داخل خلية التفاصيل) */
+.payoutBankCard {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 10px;
+  padding: 8px 10px;
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.payoutBankRow {
+  padding-bottom: 6px;
+  margin-bottom: 8px;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.08);
+}
+
+.payoutBankRow:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.payoutBankLabel {
+  font-weight: 700;
+  opacity: 0.9;
+  margin-bottom: 2px;
+  white-space: nowrap;
+}
+
+.payoutBankValue {
+  color: #e5e7eb;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word; /* ✅ مش anywhere */
+  line-height: 1.35;
+}
+
+/* Admin note */
+.payoutNoteCell {
+  min-width: 220px;
+}
+
+.payoutNoteCell :global(input) {
+  width: 100%;
+  min-height: 36px;
+}
+
+.payoutNoteBox {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 8px 10px;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.35;
+}
+
+/* ✅ Mobile tweaks */
+@media (max-width: 575px) {
+  .infoRows {
+    grid-template-columns: 1fr; /* single column */
+  }
+
+  .infoRow {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .infoRow strong {
+    text-align: left;
+    white-space: normal;
+  }
+
+  .infoRow span {
+    min-width: unset;
+    font-size: 12px;
+  }
+}
